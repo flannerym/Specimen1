@@ -11,4 +11,6 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://commons.wikimedia.
 <param ve-entity eid="Q397"> <!-- Latin -->
 <param ve-entity eid="Q9127"> <!-- Greek -->
 <param ve-entity eid="Q13955"> <!-- Arabic -->
-<param ve-entity eid="Q
+<param ve-entity eid="Q72499"> <!-- Mediterranean -->
+<param ve-entity eid="Q7432"> <!-- species -->
+<param ve-entity eid="Q321358"> <!-- Ulisse Aldrovandi -->
