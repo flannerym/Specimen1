@@ -19,8 +19,8 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://commons.wikimedia.
 
 The Italian physician and botanist Luca Ghini began preserving plants in the 1530s.  Since plants were sources of many medicines, physicians had to identify species with healing properties, and relied on ancient texts recently translated into Latin from Greek and Arabic.  However these authors had lived in the eastern Mediterranean, and it was becoming clear that some plants they described were different from those growing further west and north.  Ghini and others concluded that to learn about these species careful observation was key:  how they grew and developed and the effects of preparations made from various plant parts.  He studied garden plants and those he gathered on fieldtrips, which were becoming more common.  But observation wasn’t enough, the visual had to be turned into text.  Notes were important in passing the information on to others:  in letters, in teaching, and in publications.<!--[image](https://user-images.githubusercontent.com/100491439/184171585-cc5d08e3-1f9a-4416-94e1-cff0be8d4773.png)> -->
 
-<parem ve-image label="Anenome hortensis" description="Aldrovandi herbarium" license=public domain"
-url="http://137.204.21.141/ALDROVANDI/image/vol2fg338.JPG/Zoom?width=800px&height=800px"> ![image](https://user-images.githubusercontent.com/100491439/184174311-4c685fbb-0178-4476-8ec2-444fbcf15c47.png)
+<parem ve-image label="Anenome hortensis" description="Aldrovandi herbarium" license="public domain"
+url="http://137.204.21.141/ALDROVANDI/image/vol2fg338.JPG/Zoom?width=800px&height=800px"> 
 
                                                                                                   
 
