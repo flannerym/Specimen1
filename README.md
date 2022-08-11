@@ -6,5 +6,9 @@ author="Maura C. Flannery"
 banner="https://iiif.juncture-digital.org/banner/?url=https://commons.wikimedia.org/wiki/File:Solanum_cheesmaniae_herbarium_sheet_Charles_Darwin_Chatham_Island_Galapagos_Sept_1835.jpg"
        layout="vertical">
        
-       
-
+<param ve-entity eid="Q181915"> <!-- herbarium -->
+<param ve-entity eid="Q613632"> <!-- Luca Ghini -->
+<param ve-entity eid="Q397"> <!-- Latin -->
+<param ve-entity eid="Q9127"> <!-- Greek -->
+<param ve-entity eid="Q13955"> <!-- Arabic -->
+<param ve-entity eid="Q
