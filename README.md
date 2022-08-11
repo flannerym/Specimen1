@@ -3,6 +3,6 @@
 <param ve-config
 title="How to Read an Herbarium Specimen"
 author="Maura C. Flannery"
-banner="https://iiif.juncture-digital.org/banner/?url=https://commons.wikimedia.org/wiki/File:Solanum_cheesmaniae_herbarium_sheet_Charles_Darwin_Chatham_Island_Galapagos_Sept_1835.jpg![image](https://user-images.githubusercontent.com/100491439/184162827-e85ea33a-1001-46fc-b464-0135b2721286.png)"
+banner="https://iiif.juncture-digital.org/banner/?url=https://commons.wikimedia.org/wiki/File:Solanum_cheesmaniae_herbarium_sheet_Charles_Darwin_Chatham_Island_Galapagos_Sept_1835.jpg"
        layout="vertical">
 
