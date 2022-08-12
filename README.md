@@ -52,8 +52,7 @@ The 16th century was a time of experimentation in how best to communicate inform
 <param ve-image
        label="Zea illustrations Vol. 1 page 312"
        description="Felix Platter herbarium, Vol. 1, page 312; Burger Library Bern"
-       license="public domain"[![image](https://user-images.githubusercontent.com/100491439/184385092-6369b52c-c2c3-434f-92db-d1de2ba57c04.png)
-
+       license="public domain"
 url="https://viewer.burgerbib.ch/Bilddateien/ES_70_1_master/ES_70_1_312.jpg">
 
        
