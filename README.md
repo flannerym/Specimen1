@@ -32,6 +32,8 @@ Drawings were also helpful in documenting a plant’s appearance at various life
        label="Bound herbarium of Johannes Harder"
        description="Dated 1595"
        license="photo of author"
-       url="https://photos.app.goo.gl/dCj2C57ZNt1Ja5fz8![image](https://user-images.githubusercontent.com/100491439/184359721-e7c654bb-da15-48e6-9593-a94653d7fb1b.png)
+       url="https://photos.app.goo.gl/dCj2C57ZNt1Ja5fz8
 ">
+       
+Ghini taught plant preservation to his students and fellow botanists who quickly saw its value.  He often augmented the specimens with drawings, written descriptions, and even prints taken from the published herbals on medicinal plants.  These images were in a style based on careful observation that developed in Northern Europe and then moved into the work of botanists like Ghini.  The visual was especially important since texts were reliant on ancient writers and a vocabulary for describing plant traits had yet to be developed.  Even the concepts of genus and species, which seem quite obvious today, took about two centuries to mature.  
        
