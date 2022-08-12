@@ -14,7 +14,8 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://commons.wikimedia.
 <param ve-entity eid="Q72499"> <!-- Mediterranean -->
 <param ve-entity eid="Q7432"> <!-- species -->
 <param ve-entity eid="Q321358"> <!-- Ulisse Aldrovandi -->
-<parem ve-entity eid="Q6165948"> <!-- herbals -->
+<parem ve-entity eid="Q6165948"> <!-- herbal -->
+<parem ve-entity eid="Q188840"> <!-- medicinal plants -->
 <parem ve-entity eid="Q34740"> <!-- genus -->
 <parem ve-entity eid="Q7432"> <!-- species -->
 
