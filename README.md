@@ -14,6 +14,14 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://commons.wikimedia.
 <param ve-entity eid="Q72499"> <!-- Mediterranean -->
 <param ve-entity eid="Q7432"> <!-- species -->
 <param ve-entity eid="Q321358"> <!-- Ulisse Aldrovandi -->
+<param ve-entity eid="Q6165948"> <!-- herbal -->
+<param ve-entity eid="Q188840"> <!-- medicinal plants -->
+<param ve-entity eid="Q34740"> <!-- genus -->
+<param ve-entity eid="Q7432"> <!-- species -->
+<param ve-entity eid="Q457191"> <!-- Pietro Andrea Mattioli -->
+<param ve--entity eid="Q667732"> <!--Felix Platter -->
+<param ve--entity eid="Q222360" aliases="nature print"> <!-- nature printing -->
+
 
 # Early Herbaria
 
@@ -33,16 +41,9 @@ Drawings were also helpful in documenting a plant’s appearance at various life
        license="photo of author"
        url="https://photos.app.goo.gl/dCj2C57ZNt1Ja5fz8">
        
-<param ve-entity eid="Q6165948"> <!-- herbal -->
-<param ve-entity eid="Q188840"> <!-- medicinal plants -->
-<param ve-entity eid="Q34740"> <!-- genus -->
-<param ve-entity eid="Q7432"> <!-- species -->
      
 Ghini taught plant preservation to his students and fellow botanists who quickly saw its value.  He often augmented the specimens with drawings, written descriptions, and even prints taken from a published herbal on medicinal plants.  These images were in a style based on careful observation that developed in Northern Europe and then moved into the work of botanists like Ghini.  The visual was especially important since texts were reliant on ancient writers and a vocabulary for describing plant traits had yet to be developed.  Even the concepts of genus and species, which seem quite obvious today, took about two centuries to mature.  
        
-<param ve-entity eid="Q457191"> <!-- Pietro Andrea Mattioli -->
-<param ve--entity eid="Q667732"> <!--Felix Platter -->
-<param ve--entity eid="Q222360" aliases="nature print"> <!-- nature printing -->
        
 # Art and the Herbarium
        
