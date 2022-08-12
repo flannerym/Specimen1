@@ -28,3 +28,10 @@ url="http://137.204.21.141/ALDROVANDI/image/vol2fg338.JPG/Zoom?width=800px&heigh
                                                                                                   
 Drawings were also helpful in documenting a plant’s appearance at various life stages—budding, flowering, fruiting—because they often passed quickly.  This is where pressed plants became important.  A cutting was carefully spread out on absorbent paper, covered by another sheet, and pressed between boards, so the plant didn’t curl up as it dried.  Once dried, the plant would last indefinitely if kept from the three most common threats:  water, fire, and insects.  A label with at least the plant’s name insured that the specimen was tied to textual information.  At the time, a collection of pressed plants was called a hortus siccus, dry garden, or hortus hyemalis, winter garden for when live plant material was scarce.  The word herbarium was used more broadly for collections of plant images.
 
+<parem ve-image
+       label="Bound herbarium of Johannes Harder"
+       description="Dated 1595"
+       license="photo of author"
+       url="https://photos.app.goo.gl/dCj2C57ZNt1Ja5fz8![image](https://user-images.githubusercontent.com/100491439/184359721-e7c654bb-da15-48e6-9593-a94653d7fb1b.png)
+">
+       
