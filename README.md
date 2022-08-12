@@ -14,10 +14,6 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://commons.wikimedia.
 <param ve-entity eid="Q72499"> <!-- Mediterranean -->
 <param ve-entity eid="Q7432"> <!-- species -->
 <param ve-entity eid="Q321358"> <!-- Ulisse Aldrovandi -->
-<parem ve-entity eid="Q6165948"> <!-- herbal -->
-<parem ve-entity eid="Q188840"> <!-- medicinal plants -->
-<parem ve-entity eid="Q34740"> <!-- genus -->
-<parem ve-entity eid="Q7432"> <!-- species -->
 
 # Early Herbaria
 
@@ -29,6 +25,7 @@ The Italian physician and botanist Luca Ghini began preserving plants in the 153
        license="public domain"
 url="http://137.204.21.141/ALDROVANDI/image/vol2fg338.JPG"> 
 
+       
                                                                                                   
 Drawings were also helpful in documenting a plant’s appearance at various life stages—budding, flowering, fruiting—because they often passed quickly.  This is where pressed plants became important.  A cutting was carefully spread out on absorbent paper, covered by another sheet, and pressed between boards, so the plant didn’t curl up as it dried.  Once dried, the plant would last indefinitely if kept from the three most common threats:  water, fire, and insects.  A label with at least the plant’s name insured that the specimen was tied to textual information.  At the time, a collection of pressed plants was called a hortus siccus, dry garden, or hortus hyemalis, winter garden for when live plant material was scarce.  The word herbarium was used more broadly for collections of plant images.
 
