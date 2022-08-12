@@ -46,8 +46,7 @@ Ghini taught plant preservation to his students and fellow botanists who quickly
        
 # Art and the Herbarium
        
-The 16th century was a time of experimentation in how best to communicate information about plants.  Ghini assisted his colleague Pietro Andrea Mattioli in interpreting an ancient text by sending him notes, specimens and drawings.  Mattioli used all these along with live plants, but disposed of the specimens after studying them.  He didn’t consider them worth saving, though he later regretted this.  The Swiss botanist and physician Felix Platter pasted one or more images on the left-hand page and a specimen of the same plant on the right, so he could easily compare them.  Others affixed them to the same sheet.  Some painted in missing parts of a plant.  Still others applied oily ink to a specimen and made a nature print of it.  While drawings are still added to herbarium sheets, the more creative approaches have not survived.  Somewhat later, embellishments were added to sheets in some herbaria to signify the status of the owner.  Printed vases and elaborate labels adorned the specimens of wealthy in 18th-century Dutch collectors.![image](https://user-images.githubusercontent.com/100491439/184378968-c983fdf8-4da5-429a-917e-23e31c167b17.png)
-
+The 16th century was a time of experimentation in how best to communicate information about plants.  Ghini assisted his colleague Pietro Andrea Mattioli in interpreting an ancient text by sending him notes, specimens and drawings.  Mattioli used all these along with live plants, but disposed of the specimens after studying them.  He didn’t consider them worth saving, though he later regretted this.  The Swiss botanist and physician Felix Platter pasted one or more images on the left-hand page and a specimen of the same plant on the right, so he could easily compare them.  Others affixed them to the same sheet.  Some painted in missing parts of a plant.  Still others applied oily ink to a specimen and made a nature print of it.  While drawings are still added to herbarium sheets, the more creative approaches have not survived.  Somewhat later, embellishments were added to sheets in some herbaria to signify the status of the owner.  Printed vases and elaborate labels adorned the specimens of wealthy in 18th-century Dutch collectors.
        
 <param ve-image
        label="Zea illustrations Vol. 1 page 312"
@@ -57,5 +56,3 @@ The 16th century was a time of experimentation in how best to communicate inform
 url="https://viewer.burgerbib.ch/Bilddateien/ES_70_1_master/ES_70_1_312.jpg">
 
        
-       
-       https://viewer.burgerbib.ch/Bilddateien/ES_70_1_master/ES_70_1_312.jpg
