@@ -15,6 +15,8 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://commons.wikimedia.
 <param ve-entity eid="Q7432"> <!-- species -->
 <param ve-entity eid="Q321358"> <!-- Ulisse Aldrovandi -->
 <parem ve-entity eid="Q6165948"> <!-- herbals -->
+<parem ve-entity eid="Q34740"> <!-- genus -->
+<parem ve-entity eid="Q7432"> <!-- species -->
 
 # Early Herbaria
 
