@@ -27,7 +27,7 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 
 The Italian physician and botanist Luca Ghini began preserving plants in the 1530s.  Since plants were sources of many medicines, physicians had to identify species with healing properties, and relied on ancient texts recently translated into Latin from Greek and Arabic.  However these authors had lived in the eastern Mediterranean, and it was becoming clear that some plants they described were different from those growing further west and north.  Ghini and others concluded that to learn about these species careful observation was key:  how they grew and developed and the effects of preparations made from various plant parts.  He studied garden plants and those he gathered on fieldtrips, which were becoming more common.  But observation wasn’t enough, the visual had to be turned into text.  Notes were important in passing the information on to others:  in letters, in teaching, and in publications.
 
-<param ve-image contain
+<param ve-image fit
        label="Anenome hortensis" 
        description="Aldrovandi herbarium" 
        license="public domain"
@@ -44,7 +44,7 @@ Drawings were also helpful in documenting a plant’s appearance at various life
      
 Ghini taught plant preservation to his students and fellow botanists who quickly saw its value.  He often augmented the specimens with drawings, written descriptions, and even prints taken from a published herbal on medicinal plants.  These images were in a style based on careful observation that developed in Northern Europe and then moved into the work of botanists like Ghini.  The visual was especially important since texts were reliant on ancient writers and a vocabulary for describing plant traits had yet to be developed.  Even the concepts of genus and species, which seem quite obvious today, took about two centuries to mature.  
 
-<param ve-image
+<param ve-image fit
        label="Wood engraving of septfoil, *Tormentilla*"
        description="*Herbarum Vivae Eicones* by Otto Brunfels with the lower stems drooping"
        license="public domain"
