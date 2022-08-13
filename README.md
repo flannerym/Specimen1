@@ -72,6 +72,10 @@ url="https://viewer.burgerbib.ch/Bilddateien/ES_70_1_master/ES_70_1_312.jpg">
        license="public domain"
 url="https://viewer.burgerbib.ch/Bilddateien/ES_70_1_master/ES_70_1_313.jpg"> 
 
-       
-
-       
+<param ve-image fit
+       label="Solomon's seal (Polygonatum latifolium) with leaves pasted on"
+       description="Copy of image from Fuchs"
+       license="CC BY-NC-SA 4.0
+url="https://herbariumworld.files.wordpress.com/2022/08/fuchs-leaf.jpeg">
+                                                          
+                                                                            
