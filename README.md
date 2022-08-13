@@ -3,7 +3,7 @@
 <param ve-config
 title="How to Read an Herbarium Specimen"
 author="Maura C. Flannery"
-banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.files.wordpress.com/2022/02/4-ratzenberger2.jpg"
+banner="https://iiif.juncture-digital.org/banner/?url=http://137.204.21.141/ALDROVANDI/image/vol2fg338.JPG"
        layout="vertical">
        
 <param ve-entity eid="Q181916"> <!-- herbarium -->
@@ -39,7 +39,8 @@ Drawings were also helpful in documenting a plant’s appearance at various life
        label="Bound herbarium of Johannes Harder"
        description="Dated 1595"
        license="photo of author"
-       url="https://photos.app.goo.gl/dCj2C57ZNt1Ja5fz8">
+       url="[https://photos.app.goo.gl/dCj2C57ZNt1Ja5fz8](https://herbariumworld.files.wordpress.com/2022/08/bound_harder.jpeg)![image](https://user-images.githubusercontent.com/100491439/184496272-a59a8042-5601-4a11-a26b-431347b8c30f.png)
+">
        
      
 Ghini taught plant preservation to his students and fellow botanists who quickly saw its value.  He often augmented the specimens with drawings, written descriptions, and even prints taken from a published herbal on medicinal plants.  These images were in a style based on careful observation that developed in Northern Europe and then moved into the work of botanists like Ghini.  The visual was especially important since texts were reliant on ancient writers and a vocabulary for describing plant traits had yet to be developed.  Even the concepts of genus and species, which seem quite obvious today, took about two centuries to mature.  
