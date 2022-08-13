@@ -47,7 +47,7 @@ Ghini taught plant preservation to his students and fellow botanists who quickly
 <param ve-image
        label="Wood engraving of septfoil 
               ```(
-              *"Tormentilla"*
+              *Tormentilla*
               )```"
                            
        description="*Herbarum Vivae Eicones* by Otto Brunfels with the lower stems drooping"
