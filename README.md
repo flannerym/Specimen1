@@ -80,6 +80,20 @@ url="https://viewer.burgerbib.ch/Bilddateien/ES_70_1_master/ES_70_1_312.jpg">
 url="https://viewer.burgerbib.ch/Bilddateien/ES_70_1_master/ES_70_1_313.jpg"> 
 
 <param ve-image fit
+       label="Woodcut of five-spice anemone"
+       description="In <em>I discorsi</em> by Andrea Pietro Mattioli, p. 833. Getty Research Institute.
+       license="public domain"
+url="https://herbariumworld.files.wordpress.com/2022/08/mattioli_anemone.jpeg">
+
+
+<param ve-image fit
+       label="Grape (<em>Vitis</em>) nature print"
+       description="Johannes Kentmann, Plantarum atque animantium nunquam Hactenus Impressarum, p. 436. Duchess Anna Amalia Library, Weimar"
+       license="public domain"
+url="https://herbariumworld.files.wordpress.com/2022/08/kentmann_vitis.jpg">
+
+
+<param ve-image fit
        label="Marsh mallow, Potentilla palustris specimen"
        description="Johannes Harder herbarium"
        license="Oak Spring Garden Foundation"
@@ -91,11 +105,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/harder-sm.jpg">
        license="CC BY-NC-SA 4.0"
 url="https://herbariumworld.files.wordpress.com/2022/08/fuchs-leaf.jpeg">
 
-<param ve-image fit
-       label="Woodcut of five-spice anemone"
-       description="In <em>I discorsi</em> by Andrea Pietro Mattioli, p. 833. Getty Research Institute.
-       license="public domain"
-url="https://herbariumworld.files.wordpress.com/2022/08/mattioli_anemone.jpeg">
+
 
                  
 # Carl Linnaeus and Specimens
