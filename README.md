@@ -91,9 +91,9 @@ url="https://herbariumworld.files.wordpress.com/2022/08/harder-sm.jpg">
        license="CC BY-NC-SA 4.0"
 url="https://herbariumworld.files.wordpress.com/2022/08/fuchs-leaf.jpeg">
 
-<parem ve-image fit
+<param ve-image fit
        label="Woodcut of five-spice anemone"
-                      description="In <em>I discorsi</em> by Andrea Pietro Mattioli, p. 833. Getty Research Institute.
+       description="In <em>I discorsi</em> by Andrea Pietro Mattioli, p. 833. Getty Research Institute.
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/08/mattioli_anemone.jpeg">
 
