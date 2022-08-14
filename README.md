@@ -27,6 +27,7 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q79932"> <!-- pollen -->
 <param ve-entity eid="Q62779" aliases="pistils"> <!-- pistil -->
 <param ve-entity eid="Q380138" aliases="ovules"> <!-- ovule -->
+<param ve-entity eid="Q37517" aliases="classes"> <!-- class -->
 
 
 
