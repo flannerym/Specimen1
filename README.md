@@ -97,7 +97,13 @@ url="https://herbariumworld.files.wordpress.com/2022/08/kentmann_vitis.jpg">
        label="Marsh mallow, Potentilla palustris specimen"
        description="Johannes Harder herbarium"
        license="Oak Spring Garden Foundation"
-url="https://herbariumworld.files.wordpress.com/2022/08/harder-sm.jpg">                                                                        
+url="https://herbariumworld.files.wordpress.com/2022/08/harder-sm.jpg"> 
+
+<param ve-image fit
+       label="Specimen of sweet-amber (<em>Hypericum androsaemum</em>)"
+       description="With elaborate vase and label. George Clifford Herbarium, Natural History Museum, London"
+       license="CCO-01"
+url="https://herbariumworld.files.wordpress.com/2022/08/clifford.jpg">
 
 <param ve-image fit
        label="Solomon's seal, Polygonatum latifolium, with leaves pasted on"
