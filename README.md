@@ -100,4 +100,11 @@ By then, the herbarium had become an important research tool.  The Swedish botan
        description="Illustration by Georg Ehret"
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/08/ehret-sm.jpeg">
-                                                                            
+
+<param ve-image fit
+       label="Linnaeus’s specimen cabinet at Hammarby, his farm outside Uppsala"
+       description'"Alongside the cubicles, the doors are marked with roman numerals for the twenty-four classes. The faded rectangles to the right are prints of Georg Ehret illustrations that Linnaeus had pasted to the walls of his bedroom so he could enjoy looking at them
+       license="Gina Douglas HonFLS"
+url="https://herbariumworld.files.wordpress.com/2022/08/linn-cabinet-sm.jpeg">
+
+
