@@ -58,7 +58,6 @@ Ghini taught plant preservation to his students and fellow botanists who quickly
        license="public domain"
        url="https://herbariumworld.files.wordpress.com/2022/08/fuchs_tormentilla.jpeg">
        
-## Art and the Herbarium
        
 The 16th century was a time of experimentation in how best to communicate information about plants.  Ghini assisted his colleague Pietro Andrea Mattioli in interpreting an ancient text by sending him notes, specimens and drawings.  Mattioli used all these along with live plants, but disposed of the specimens after studying them.  He didn’t consider them worth saving, though he later regretted this.  The Swiss botanist and physician Felix Platter pasted one or more images on the left-hand page and a specimen of the same plant on the right, so he could easily compare them.  Others affixed them to the same sheet.  Some painted in missing parts of a plant.  Still others applied oily ink to a specimen and made a nature print of it.  While drawings are still added to herbarium sheets, the more creative approaches have not survived.  Somewhat later, embellishments were added to sheets in some herbaria to signify the status of the owner.  Printed vases and elaborate labels adorned the specimens of wealthy in 18th-century Dutch collectors.
        
@@ -86,7 +85,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/harder-sm.jpg">
        license="CC BY-NC-SA 4.0"
 url="https://herbariumworld.files.wordpress.com/2022/08/fuchs-leaf.jpeg">
 
-## Carl Linnaeus and Specimens
+# Carl Linnaeus and Specimens
 
 By then, the herbarium had become an important research tool.  The Swedish botanist Carl Linnaeus argued that there was no substitute for it as the crucial source of information about a plant.  He tackled the problem of organizing the increasing number of species being discovered all over the world by classifying them.  He focused on the flower as having the most distinctive information, explaining why specimens are usually collected with fruit, flowers, or both.  In many species, flowers have both the male stamens with anthers containing pollen and the female pistils with egg-containing ovules.  Linnaeus divided plants into 24 classes based on number of stamens with subclasses based on pistil number.  This was considered an artificial system since species with very different overall properties were classified together based solely on stamen number.  Linnaeus had a cabinet built with 24 shelves, one for each class and kept the sheets loose so he could reclassify a species if necessary.  Linnaeus also limited species names to two words, the genus which included all species with similar properties and an epithet for each species.  Names had become longer as more species were discovered and needed to be differentiated from each other.  Linnaeus separated the name from the description, which he kept brief and succinct.
 
