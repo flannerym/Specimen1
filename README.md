@@ -25,7 +25,7 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q103129" aliases="stamens"> <!-- stamen -->
 <param ve-entity eid="Q1995772" aliases="anthers"> <!-- anther -->
 <param ve-entity eid="Q79932"> <!-- pollen -->
-<parem ve-entity eid="Q62779" aliases="pistils"> <!-- pistil -->
+
 
 
 # Early Herbaria
