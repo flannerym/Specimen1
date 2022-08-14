@@ -86,7 +86,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/harder-sm.jpg">
        license="CC BY-NC-SA 4.0"
 url="https://herbariumworld.files.wordpress.com/2022/08/fuchs-leaf.jpeg">
 
-#Carl Linnaeus and Specimens
+## Carl Linnaeus and Specimens
 
 By then, the herbarium had become an important research tool.  The Swedish botanist Carl Linnaeus argued that there was no substitute for it as the crucial source of information about a plant.  He tackled the problem of organizing the increasing number of species being discovered all over the world by classifying them.  He focused on the flower as having the most distinctive information, explaining why specimens are usually collected with fruit, flowers, or both.  In many species, flowers have both the male stamens with anthers containing pollen and the female pistils with egg-containing ovules.  Linnaeus divided plants into 24 classes based on number of stamens with subclasses based on pistil number.  This was considered an artificial system since species with very different overall properties were classified together based solely on stamen number.  Linnaeus had a cabinet built with 24 shelves, one for each class and kept the sheets loose so he could reclassify a species if necessary.  Linnaeus also limited species names to two words, the genus which included all species with similar properties and an epithet for each species.  Names had become longer as more species were discovered and needed to be differentiated from each other.  Linnaeus separated the name from the description, which he kept brief and succinct.
 
