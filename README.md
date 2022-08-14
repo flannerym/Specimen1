@@ -21,8 +21,8 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q457191"> <!-- Pietro Andrea Mattioli -->
 <param ve-entity eid="Q667732"> <!-- Felix Platter -->
 <param ve-entity eid="Q222360" aliases="nature print"> <!-- nature printing -->
-<param ve-entity eid="Q1043"> <!--Carl Linnaeus-->
-<parem ve-entity eid="Q103129"> <!-- stamen -->
+<param ve-entity eid="Q1043"> <!-- Carl Linnaeus -->
+<param ve-entity eid="Q103129"> <!-- stamen -->
 
 
 # Early Herbaria
