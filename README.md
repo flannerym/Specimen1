@@ -28,7 +28,7 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q62779" aliases="pistils"> <!-- pistil -->
 <param ve-entity eid="Q380138" aliases="ovules"> <!-- ovule -->
 <param ve-entity eid="Q37517" aliases="classes"> <!-- class -->
-<param ve-entity eid="Q849308" aliases="<em>Species Plantarum</em>"> <!-- Species Plantarum -->
+<param ve-entity eid="Q849308" aliases="Species Plantarum"> <!-- Species Plantarum -->
 <param ve-entity eid="Q940017" aliases="Francisco Hernàndez"> <!-- Francisco Hernàndez de Toledo -->
 
 # Early Herbaria
@@ -36,7 +36,7 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 The Italian physician and botanist Luca Ghini began preserving plants in the 1530s.  Since plants were sources of many medicines, physicians had to identify species with healing properties, and relied on ancient texts recently translated into Latin from Greek and Arabic.  However these authors had lived in the eastern Mediterranean, and it was becoming clear that some plants they described were different from those growing further west and north.  Ghini and others concluded that to learn about these species careful observation was key:  how they grew and developed and the effects of preparations made from various plant parts.  He studied garden plants and those he gathered on fieldtrips, which were becoming more common.  But observation wasn’t enough, the visual had to be turned into text.  Notes were important in passing the information on to others:  in letters, in teaching, and in publications.
 
 <param ve-image fit="contain"
-       label="Anenome hortensis" 
+       label="<em>Anenome hortensis</em>" 
        description="Aldrovandi herbarium" 
        license="public domain"
 url="http://137.204.21.141/ALDROVANDI/image/vol2fg338.JPG">   
@@ -53,14 +53,14 @@ Drawings were also helpful in documenting a plant’s appearance at various life
 Ghini taught plant preservation to his students and fellow botanists who quickly saw its value.  He often augmented the specimens with drawings, written descriptions, and even prints taken from a published herbal on medicinal plants.  These images were in a style based on careful observation that developed in Northern Europe and then moved into the work of botanists like Ghini.  The visual was especially important since texts were reliant on ancient writers and a vocabulary for describing plant traits had yet to be developed.  Even the concepts of genus and species, which seem quite obvious today, took about two centuries to mature.  
 
 <param ve-image fit compare="true"
-       label="Wood engraving of septfoil, *Tormentilla*"
-       description="*Herbarum Vivae Eicones* by Otto Brunfels with the lower stems drooping"
+       label="Wood engraving of septfoil, <em>Tormentilla<em>"
+       description="<em>Herbarum Vivae Eicones</em> by Otto Brunfels with the lower stems drooping"
        license="public domain"
        url="https://herbariumworld.files.wordpress.com/2022/08/brunfels_tormentilla.jpeg">
 
 <param ve-image fit 
        label="Wood engraving of septfoil"
-       description="De Historia Stirpium by Leonhard Fuchs"
+       description="<em>De Historia Stirpium</em> by Leonhard Fuchs"
        license="public domain"
        url="https://herbariumworld.files.wordpress.com/2022/08/fuchs_tormentilla.jpeg">
        
@@ -85,16 +85,14 @@ url="https://viewer.burgerbib.ch/Bilddateien/ES_70_1_master/ES_70_1_313.jpg">
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/08/mattioli_anemone.jpeg">
 
-
 <param ve-image fit
        label="Grape (<em>Vitis</em>) nature print"
-       description="Johannes Kentmann, Plantarum atque animantium nunquam Hactenus Impressarum, p. 436. Duchess Anna Amalia Library, Weimar"
+       description="Johannes Kentmann manuscript book, Plantarum atque animantium nunquam Hactenus Impressarum, p. 436. Duchess Anna Amalia Library, Weimar"
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/08/kentmann_vitis.jpg">
 
-
 <param ve-image fit
-       label="Marsh mallow, Potentilla palustris specimen"
+       label="Marsh mallow (<em>Potentilla palustris</em>) specimen"
        description="Johannes Harder herbarium"
        license="Oak Spring Garden Foundation"
 url="https://herbariumworld.files.wordpress.com/2022/08/harder-sm.jpg"> 
@@ -106,7 +104,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/harder-sm.jpg">
 url="https://herbariumworld.files.wordpress.com/2022/08/clifford.jpg">
 
 <param ve-image fit
-       label="Solomon's seal, Polygonatum latifolium, with leaves pasted on"
+       label="Solomon's seal (<em>Polygonatum latifolium</em>), with leaves pasted on"
        description="Copy of image from Fuchs"
        license="CC BY-NC-SA 4.0"
 url="https://herbariumworld.files.wordpress.com/2022/08/fuchs-leaf.jpeg">
