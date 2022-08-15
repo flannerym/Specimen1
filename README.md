@@ -28,7 +28,7 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q62779" aliases="pistils"> <!-- pistil -->
 <param ve-entity eid="Q380138" aliases="ovules"> <!-- ovule -->
 <param ve-entity eid="Q37517" aliases="classes"> <!-- class -->
-<param ve-entity eid="Q849308"> <!-- Species Plantarum -->
+<param ve-entity eid="Q849308" aliases="Species Plantarum"> <!-- Species Plantarum -->
 <param ve-entity eid="Q940017" aliases="Francisco Hernàndez"> <!-- Francisco Hernàndez de Toledo -->
 
 # Early Herbaria
