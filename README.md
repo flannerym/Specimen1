@@ -29,6 +29,7 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q380138" aliases="ovules"> <!-- ovule -->
 <param ve-entity eid="Q37517" aliases="classes"> <!-- class -->
 <param ve-entity eid="Q849308"> <!-- Species Plantarum -->
+<param ve-entity eid="Q940017" aliases="Francisco Hernàndez"> <!-- Francisco Hernàndez de Toledo -->
 
 # Early Herbaria
 
@@ -130,7 +131,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/ehret-sm.jpeg">
 url="https://herbariumworld.files.wordpress.com/2022/08/linn-cabinet-sm.jpeg">
 
 
-In 1753, Linnaeus published Species Plantarum, his compilation of over 6,000 plant species, while 16th-century herbals listed under a thousand.  Much of the increase came from areas investigated by European powers using their sea power to seek wealth in other parts of the world.  Their search was not only for gold and minerals, but plants with possible economic importance as medicine, timber, fiber, food, or garden plants.  The Spanish king sent his physician Francisco Hernández to Mexico 1570.  Since the plants were so unfamiliar, Hernandez sought assistance from indigenous healers, noted characteristics, uses, and indigenous names, while collecting specimens and drawings.  Like many early collections, Hernàndez’s herbarium did not survive; it was destroyed by fire in the king’s palace.  However, at least some of his research and illustrations were published, contributing to increasing knowledge of exotic plants.
+In 1753, Linnaeus published Species Plantarum, his compilation of over 6,000 plant species, while 16th-century herbals listed under a thousand.  Much of the increase came from areas investigated by European powers using their sea power to seek wealth in other parts of the world.  Their search was not only for gold and minerals, but plants with possible economic importance as medicine, timber, fiber, food, or garden plants.  The Spanish king sent his physician Francisco Hernàndez to Mexico 1570.  Since the plants were so unfamiliar, Hernandez sought assistance from indigenous healers, noted characteristics, uses, and indigenous names, while collecting specimens and drawings.  Like many early collections, Hernàndez’s herbarium did not survive; it was destroyed by fire in the king’s palace.  However, at least some of his research and illustrations were published, contributing to increasing knowledge of exotic plants.
 
 <parem ve-image fit
        label="Santos balsam (<em>Myroxylon balsamum</em>), Hoitziloxitl in the ingenous Nahuatl language"
