@@ -6,7 +6,7 @@ author="Maura C. Flannery"
 banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.files.wordpress.com/2022/02/4-ratzenberger2.jpg"
        layout="vertical">
        
-
+<param ve-entity eid="Q181916"> <!-- herbarium -->
 <param ve-entity eid="Q613632"> <!-- Luca Ghini -->
 <param ve-entity eid="Q397"> <!-- Latin -->
 <param ve-entity eid="Q9127"> <!-- Greek -->
