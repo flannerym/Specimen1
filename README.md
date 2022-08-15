@@ -140,7 +140,6 @@ In 1753, Linnaeus published Species Plantarum, his compilation of over 6,000 pla
        label="Santos balsam (<em>Myroxylon balsamum</em>), Hoitziloxitl in the ingenous Nahuatl language"
        description="In Francisco Hernàndez’s <em>Rerum medicarum Novae Hispaniae thesaurus</em>, 1651. Getty Research Institute"
        license="public domain"
-
 url="https://herbariumworld.files.wordpress.com/2022/08/hernacc81ndez_hoitziloxitl.jpeg">
 
 
