@@ -33,6 +33,7 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 
 
 
+
 # Early Herbaria
 
 The Italian physician and botanist Luca Ghini began preserving plants in the 1530s.  Since plants were sources of many medicines, physicians had to identify species with healing properties, and relied on ancient texts recently translated into Latin from Greek and Arabic.  However these authors had lived in the eastern Mediterranean, and it was becoming clear that some plants they described were different from those growing further west and north.  Ghini and others concluded that to learn about these species careful observation was key:  how they grew and developed and the effects of preparations made from various plant parts.  He studied garden plants and those he gathered on fieldtrips, which were becoming more common.  But observation wasn’t enough, the visual had to be turned into text.  Notes were important in passing the information on to others:  in letters, in teaching, and in publications.
@@ -134,5 +135,12 @@ url="https://herbariumworld.files.wordpress.com/2022/08/linn-cabinet-sm.jpeg">
 
 
 In 1753, Linnaeus published Species Plantarum, his compilation of over 6,000 plant species, while 16th-century herbals listed under a thousand.  Much of the increase came from areas investigated by European powers using their sea power to seek wealth in other parts of the world.  Their search was not only for gold and minerals, but plants with possible economic importance as medicine, timber, fiber, food, or garden plants.  The Spanish king sent his physician Francisco Hernández to Mexico 1570.  Since the plants were so unfamiliar, Hernandez sought assistance from indigenous healers, noted characteristics, uses, and indigenous names, while collecting specimens and drawings.  Like many early collections, Hernàndez’s herbarium did not survive; it was destroyed by fire in the king’s palace.  However, at least some of his research and illustrations were published, contributing to increasing knowledge of exotic plants.
+
+<parem ve-image fit
+       label="Santos balsam (<em>Myroxylon balsamum</em>), Hoitziloxitl in the ingenous Nahuatl language"
+       description="In Francisco Hernàndez’s <em>Rerum medicarum Novae Hispaniae thesaurus</em>, 1651. Getty Research Institute"
+       license="public domain"
+
+url="https://herbariumworld.files.wordpress.com/2022/08/hernacc81ndez_hoitziloxitl.jpeg">
 
 
