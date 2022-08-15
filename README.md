@@ -28,6 +28,8 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q62779" aliases="pistils"> <!-- pistil -->
 <param ve-entity eid="Q380138" aliases="ovules"> <!-- ovule -->
 <param ve-entity eid="Q37517" aliases="classes"> <!-- class -->
+<param ve-entity eid="Q849308"> <!-- Species Plantarum -->
+<param ve-entity eid="Q940017" aliases="Francisco Hernàndez"> <!-- Francisco Hernàndez de Toledo -->
 
 
 
@@ -114,7 +116,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/fuchs-leaf.jpeg">
 
 
                  
-# Carl Linnaeus and Specimens
+# Carl Linnaeus
 
 By then, the herbarium had become an important research tool.  The Swedish botanist Carl Linnaeus argued that there was no substitute for it as the crucial source of information about a plant.  He tackled the problem of organizing the increasing number of species being discovered all over the world by classifying them.  He focused on the flower as having the most distinctive information, explaining why specimens are usually collected with fruit, flowers, or both.  In many species, flowers have both the male stamens with anthers containing pollen and the female pistils with egg-containing ovules.  Linnaeus divided plants into 24 classes based on number of stamens with subclasses based on pistil number.  This was considered an artificial system since species with very different overall properties were classified together based solely on stamen number.  Linnaeus had a cabinet built with 24 shelves, one for each class and kept the sheets loose so he could reclassify a species if necessary.  Linnaeus also limited species names to two words, the genus which included all species with similar properties and an epithet for each species.  Names had become longer as more species were discovered and needed to be differentiated from each other.  Linnaeus separated the name from the description, which he kept brief and succinct.
 
@@ -129,5 +131,8 @@ url="https://herbariumworld.files.wordpress.com/2022/08/ehret-sm.jpeg">
        description'"Alongside the cubicles, the doors are marked with roman numerals for the twenty-four classes. The faded rectangles to the right are prints of Georg Ehret illustrations that Linnaeus had pasted to the walls of his bedroom so he could enjoy looking at them
        license="Gina Douglas HonFLS"
 url="https://herbariumworld.files.wordpress.com/2022/08/linn-cabinet-sm.jpeg">
+
+
+In 1753, Linnaeus published Species Plantarum, his compilation of over 6,000 plant species, while 16th-century herbals listed under a thousand.  Much of the increase came from areas investigated by European powers using their sea power to seek wealth in other parts of the world.  Their search was not only for gold and minerals, but plants with possible economic importance as medicine, timber, fiber, food, or garden plants.  The Spanish king sent his physician Francisco Hernández to Mexico 1570.  Since the plants were so unfamiliar, Hernandez sought assistance from indigenous healers, noted characteristics, uses, and indigenous names, while collecting specimens and drawings.  Like many early collections, Hernàndez’s herbarium did not survive; it was destroyed by fire in the king’s palace.  However, at least some of his research and illustrations were published, contributing to increasing knowledge of exotic plants.
 
 
