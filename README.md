@@ -30,7 +30,7 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q37517" aliases="classes"> <!-- class -->
 <param ve-entity eid="Q849308" aliases="Species Plantarum"> <!-- Species Plantarum -->
 <param ve-entity eid="Q940017" aliases="Francisco Hernàndez"> <!-- Francisco Hernàndez de Toledo -->
-<param ve-entity eid-"Q764"> <!-- fungus -->
+<param ve-entity eid-"Q764" aliases="fungi"> <!-- fungus -->
 
 # Early Herbaria
 
