@@ -152,7 +152,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/petrollin_tomato-sm.jpeg
 
 Herbaria with specimens collected before Linnaeus’s work were often neglected in the past, because the plants weren’t named according to his system.  However, these materials are being reexamined with interesting results.  In 1687 Hendrik Meyer, a Dutch collector working in Surinam, gathered specimens growing there including two African food plants:  okra and sesame, giving evidence that African enslaved persons brought to work on plantations had carried seeds with them, one of many examples of the early movement of plants with links to the slave trade. This suggests how herbaria can contribute crucial evidence on cultural and political history and reveal what had long remained hidden.
 
-<param ve-image fit
+<param ve-image fit="cover"
                    label="Wild sesame (<em>Sesamum radiatum</em>), vernacular name recorded as Bowangala"
                    description="Paul Hermann Herbarium, Naturalis Biodiversity Center, Leiden"
                    license="public domain"
@@ -161,7 +161,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/meyer_bowangala.jpg">
 
 Herbaria today are examined for such hidden stories of the role of enslaved and indigenous people in the history of plant collecting.  The biota in many areas was so different from the European that collectors needed guidance in finding useful plants.  Local knowledge was essential as was the labor needed to mounting expeditions into often difficult terrain.  Yet the contributions of those most helpful often went unrecorded.  Historians and botanists are now combing records, including specimens, seeking information that collectors recorded but reach publication.  When plants were sent back to Europe, the indigenous names, if recorded, were frequently removed as being of little value.  However, combing letters, fieldnotes, and journals sometimes reveals a great deal.
 
-<param ve-image fit="contain"
+<param ve-image fit
        label="First page of James Petiver's article on African plants collected in Guinea"
        description="Petiver received plants from collectors all over the world and published descriptions of them"
        license="public domain"
