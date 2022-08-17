@@ -33,6 +33,7 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q764" aliases="fungi"> <!-- fungus -->
 <param ve-entity eid="Q80531" aliases="okra""> <!-- Abelmoschus esculentus -->
 <param ve-entity eid="Q2763698"> <!-- sesame -->
+<param ve-entity eid="Q845214"> <!-- biota -->
 
 # Early Herbaria
 
@@ -156,3 +157,7 @@ Herbaria with specimens collected before Linnaeus’s work were often neglected 
                    description="Paul Hermann Herbarium, Naturalis Biodiversity Center, Leiden"
                    license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/08/meyer_bowangala.jpg">
+
+
+Herbaria today are examined for such hidden stories of the role of enslaved and indigenous people in the history of plant collecting.  The biota in many areas was so different from the European that collectors needed guidance in finding useful plants.  Local knowledge was essential as was the labor needed to mounting expeditions into often difficult terrain.  Yet the contributions of those most helpful often went unrecorded.  Historians and botanists are now combing records, including specimens, seeking information that collectors recorded but reach publication.  When plants were sent back to Europe, the indigenous names, if recorded, were frequently removed as being of little value.  However, combing letters, fieldnotes, and journals sometimes reveals a great deal.
+
