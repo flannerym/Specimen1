@@ -31,7 +31,7 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q849308" aliases="Species Plantarum"> <!-- Species Plantarum -->
 <param ve-entity eid="Q940017" aliases="Francisco Hernàndez"> <!-- Francisco Hernàndez de Toledo -->
 <param ve-entity eid="Q764" aliases="fungi"> <!-- fungus -->
-<param ve-entity eid="Q80531"> <!-- okra -->
+<param ve-entity eid="Q80531" aliases="okra""> <!-- Abelmoschus esculentus -->
 <param ve-entity eid="Q2763698"> <!-- sesame -->
 
 # Early Herbaria
@@ -149,14 +149,11 @@ With time, herbaria became crucial to plant documentation.  Travelers were tutor
 url="https://herbariumworld.files.wordpress.com/2022/08/petrollin_tomato-sm.jpeg">
 
 
-Herbaria with specimens collected before Linnaeus’s work were often neglected in the past, because the plants weren’t named according to his system.  However, these materials are being reexamined with interesting results.  In 1587 Hendrik Meyer, a Dutch collector working in Surinam, gathered specimens growing there including two African food plants:  okra and sesame, giving evidence that African enslaved persons brought to work on plantations had carried seeds with them, one of many examples of the early movement of plants with links to the slave trade. This suggests how herbaria can contribute crucial evidence on cultural and political history and reveal what had long remained hidden.  
-
-
 Herbaria with specimens collected before Linnaeus’s work were often neglected in the past, because the plants weren’t named according to his system.  However, these materials are being reexamined with interesting results.  In 1687 Hendrik Meyer, a Dutch collector working in Surinam, gathered specimens growing there including two African food plants:  okra and sesame, giving evidence that African enslaved persons brought to work on plantations had carried seeds with them, one of many examples of the early movement of plants with links to the slave trade. This suggests how herbaria can contribute crucial evidence on cultural and political history and reveal what had long remained hidden.  
 
 <param ve-image fit
        label="Specimen of wild sesame (<em>Sesamum radiatum</em>), vernacular name given as Bowangala"
-       description="In the Paul Hermann Herbarium, Naturalis Biodiversity Center, Leiden.
-       license"public domain"
+       description="In the Paul Hermann Herbarium, Naturalis Biodiversity Center, Leiden."
+       license="public domain"
 
 url="https://herbariumworld.files.wordpress.com/2022/08/meyer_bowangala.jpg">
