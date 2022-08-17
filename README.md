@@ -156,4 +156,4 @@ Herbaria with specimens collected before Linnaeus’s work were often neglected 
        description="In the Paul Hermann Herbarium, Naturalis Biodiversity Center, Leiden."
        license="public domain"
 
-url="https://herbariumworld.files.wordpress.com/2022/08/meyer_bowangala.jpg">
+url="https://herbariumworld.files.wordpress.com/2022/08/kentmann_vitis.jpg">
