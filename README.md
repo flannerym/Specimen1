@@ -145,3 +145,14 @@ With time, herbaria became crucial to plant documentation.  Travelers were tutor
        description="En Tibi herbarium, attributed to Francesco Petrollini, dating from about 1558. Naturalis Biodiversity Center, Leiden"
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/08/petrollin_tomato-sm.jpeg">
+
+
+Herbaria with specimens collected before Linnaeus’s work were often neglected in the past, because the plants weren’t named according to his system.  However, these materials are being reexamined with interesting results.  In 1587 Hendrik Meyer, a Dutch collector working in Surinam, gathered specimens growing there including two African food plants:  okra and sesame, giving evidence that African enslaved persons brought to work on plantations had carried seeds with them, one of many examples of the early movement of plants with links to the slave trade. This suggests how herbaria can contribute crucial evidence on cultural and political history and reveal what had long remained hidden.  
+
+
+Herbaria with specimens collected before Linnaeus’s work were often neglected in the past, because the plants weren’t named according to his system.  However, these materials are being reexamined with interesting results.  In 1587 Hendrik Meyer, a Dutch collector working in Surinam, gathered specimens growing there including two African food plants:  okra and sesame, giving evidence that African enslaved persons brought to work on plantations had carried seeds with them, one of many examples of the early movement of plants with links to the slave trade. This suggests how herbaria can contribute crucial evidence on cultural and political history and reveal what had long remained hidden.  
+
+<param ve-image fit
+       label="
+
+url="https://herbariumworld.files.wordpress.com/2022/08/meyer_bowangala.jpg">
