@@ -163,6 +163,6 @@ Herbaria today are examined for such hidden stories of the role of enslaved and 
 
 <param ve-image fit
        label="First page of James Petiver's article on African plants collected in Guinea"
-       description="Petiver received plants from collectors all over the world, and published descriptions of them"
+       description="Petiver received plants from collectors all over the world and published descriptions of them"
        license="public domain"
-url="https://herbariumworld.files.wordpress.com/2022/08/petiver.jpeg"
+url="https://herbariumworld.files.wordpress.com/2022/08/petiver.jpeg">
