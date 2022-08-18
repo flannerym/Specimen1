@@ -207,3 +207,9 @@ url="https://herbariumworld.files.wordpress.com/2022/08/somerset_herbarium-sm.jp
        label="Specimen of cross-leafed heath (<em>Erica tetralix</em>)"
        description="Collected at Beatrix Farrand’s Reef Point Gardens; University of California, Berkeley Herbarium"
 url="https://herbariumworld.files.wordpress.com/2022/08/farrand-erica.jpg">
+
+<param ve-image fit
+       label="Specimen of monkshood (<em>Aconitum carmichaelii</em> Debeaux [Wilsonii Group]) ‘Barker’s Variety,’ includes individual flowers and flower parts"
+       description="The 1851 Royal Commission Herbarium, RHS Garden Wisley"
+url="https://herbariumworld.files.wordpress.com/2022/08/rhs-sm.jpeg">
+       description="The 1851 Royal Commission Herbarium, RHS Garden Wisley"
