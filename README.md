@@ -34,10 +34,12 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q80531" aliases="okra""> <!-- Abelmoschus esculentus -->
 <param ve-entity eid="Q2763698"> <!-- sesame -->
 <param ve-entity eid="Q845214"> <!-- biota -->
+<param ve-entity eid="Q313492"> <!-- Meriwether Lewis -->
+<param ve-entity eid="Q355348"> <!--William Clark -->
 
 # Early Herbaria
 
-The Italian physician and botanist Luca Ghini began preserving plants in the 1530s.  Since plants were sources of many medicines, physicians had to identify species with healing properties, and relied on ancient texts recently translated into Latin from Greek and Arabic.  However these authors had lived in the eastern Mediterranean, and it was becoming clear that some plants they described were different from those growing further west and north.  Ghini and others concluded that to learn about these species careful observation was key:  how they grew and developed and the effects of preparations made from various plant parts.  He studied garden plants and those he gathered on fieldtrips, which were becoming more common.  But observation wasn’t enough, the visual had to be turned into text.  Notes were important in passing the information on to others:  in letters, in teaching, and in publications.
+The Italian physician and botanist Luca Ghini began preserving pla<ts in the 1530s.  Since plants were sources of many medicines, physicians had to identify species with healing properties, and relied on ancient texts recently translated into Latin from Greek and Arabic.  However these authors had lived in the eastern Mediterranean, and it was becoming clear that some plants they described were different from those growing further west and north.  Ghini and others concluded that to learn about these species careful observation was key:  how they grew and developed and the effects of preparations made from various plant parts.  He studied garden plants and those he gathered on fieldtrips, which were becoming more common.  But observation wasn’t enough, the visual had to be turned into text.  Notes were important in passing the information on to others:  in letters, in teaching, and in publications.
 
 <param ve-image fit="contain"
        label="<em>Anenome hortensis</em>" 
