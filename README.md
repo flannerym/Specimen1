@@ -36,8 +36,11 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q845214"> <!-- biota -->
 <param ve-entity eid="Q313492"> <!-- Meriwether Lewis -->
 <param ve-entity eid="Q355348"> <!-- William Clark -->
-<param ve-entity eid="Q193155" aliases="President Thomas Jefferson"> <!-- Thomas Jefferson -->
-<param ve-entity eid "Q193155"> <!-- Louisiana Purschase -->
+<param ve-entity eid="Q11812" aliases="President Thomas Jefferson"> <!-- Thomas Jefferson -->
+<param ve-entity eid="Q193155"> <!-- Louisiana Purschase -->
+<param ve-entity eid="Q67353" aliases="Frederick Pursh"> <!-- Frederick Traugott Pursh -->
+<parem ve-entity eid="Q2822400"> <!-- Academy of Natural Sciences -->
+
 
 # Early Herbaria
 
