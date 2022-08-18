@@ -202,3 +202,8 @@ While economics drove much plant collecting, aesthetics also played a key role. 
        label="Anemone specimens from Mary Somerset's herbarium, each enclosed in its own sheet of paper"
        description="In the Sloane Herbarium, Natural History Museum, London"
 url="https://herbariumworld.files.wordpress.com/2022/08/somerset_herbarium-sm.jpeg">
+
+<parem ve-image fit
+       label="Specimen of cross-leafed heath (<em>Erica tetralix</em>)"
+       description="Collected at Beatrix Farrand’s Reef Point Gardens; University of California, Berkeley Herbarium"
+url="https://herbariumworld.files.wordpress.com/2022/08/farrand-erica.jpg">
