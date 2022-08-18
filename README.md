@@ -31,11 +31,13 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q849308" aliases="Species Plantarum"> <!-- Species Plantarum -->
 <param ve-entity eid="Q940017" aliases="Francisco Hernàndez"> <!-- Francisco Hernàndez de Toledo -->
 <param ve-entity eid="Q764" aliases="fungi"> <!-- fungus -->
-<param ve-entity eid="Q80531" aliases="okra""> <!-- Abelmoschus esculentus -->
+<param ve-entity eid="Q80531" aliases="okra"> <!-- Abelmoschus esculentus -->
 <param ve-entity eid="Q2763698"> <!-- sesame -->
 <param ve-entity eid="Q845214"> <!-- biota -->
 <param ve-entity eid="Q313492"> <!-- Meriwether Lewis -->
-<param ve-entity eid="Q355348"> <!--William Clark -->
+<param ve-entity eid="Q355348"> <!-- William Clark -->
+<param ve-entity eid="Q193155" aliases="President Thomas Jefferson"> <!-- Thomas Jefferson -->
+<param ve-entity eid "Q193155"> <!-- Louisiana Purschase -->
 
 # Early Herbaria
 
@@ -176,3 +178,8 @@ Specimens can also support research on what happens to specimens after they are 
        label="Specimen of Oregon grape (<em>Berberis aquifolium</em>) with numerous determination slips verifying the name"
        description="collected on the Lewis and Clark Expedition at rapids along the Columbia River in Oregon. Academy of Natural Sciences of Drexel University (PH Herbarium PH00043503)"
 url="https://herbariumworld.files.wordpress.com/2022/08/lewis-and-clark-berberis-sm.jpg">
+
+<param ve-image fit
+       label="Specimen of long-leafed sage (<em>Artemisia longifolia</em>) with original Lewis label of blue blotter paper: “No. 53, October 3rd flavor like the chamomile radix perennial growth of the high bluffs” 
+       description="Deposited by the American Philosophical Society at the Academy of Natural Sciences of Drexel University (PH Herbarium PH00043182677)"
+url="https://herbariumworld.files.wordpress.com/2022/08/lewis-artemesia-longifolia.jpg">
