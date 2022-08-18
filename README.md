@@ -147,7 +147,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/linn-cabinet-sm.jpeg">
 
 In 1753, Linnaeus published <em>Species Plantarum</em>, his compilation of over 6,000 plant species, while 16th-century herbals listed under a thousand.  Much of the increase came from areas investigated by European powers using their sea power to seek wealth in other parts of the world.  Their search was not only for gold and minerals, but plants with possible economic importance as medicine, timber, fiber, food, or garden plants.  The Spanish king sent his physician Francisco Hernàndez to Mexico 1570.  Since the plants were so unfamiliar, Hernandez sought assistance from indigenous healers, noted characteristics, uses, and indigenous names, while collecting specimens and drawings.  Like many early collections, Hernàndez’s herbarium did not survive; it was destroyed by fire in the king’s palace.  However, at least some of his research and illustrations were published, contributing to increasing knowledge of exotic plants.
 
-<param ve-image fit="cover"
+<param ve-image fit
        label="Santos balsam (<em>Myroxylon balsamum</em>), Hoitziloxitl in the ingenous Nahuatl language"
        description="In Francisco Hernàndez’s <em>Rerum medicarum Novae Hispaniae thesaurus</em>, 1651. Getty Research Institute"
        license="public domain"
@@ -196,9 +196,9 @@ url="https://herbariumworld.files.wordpress.com/2022/08/lewis-and-clark-berberis
 url="https://herbariumworld.files.wordpress.com/2022/08/lewis-artemesia-longifolia.jpg">
 
 
-
 While economics drove much plant collecting, aesthetics also played a key role.  For many botanists, it was thrilling to discover and describe new species, especially from parts of the world where the flora was so different.  Some were interested in cultivating new plants in their gardens and sharing them with other enthusiasts.  Eventually nurseries were founded to support this work and make it profitable with beauty and novelty as drivers.  In the 17th and 18th centuries primarily the upper classes had the means to create gardens with hothouses to nurture exotic species from the tropics and have reference libraries.  Mary Somerset, Duchess of Beaufort kept a herbarium not only for exotic species but for varieties of garden plants like anemones.  She and others experimented with growing delicate plants which they then passed on to botanists hadn’t cultivation skills.  Like Somerset, many gardeners documented their achievements with specimens.  In the 20th century, the landscape architect Beatrix Farrand created an herbarium of species grown in her Reef Point Garden; the labels recorded where each was planted, valuable information since the garden no longer exists.  Today, the British Royal Horticultural Society herbarium among others specializes in cultivated plants including new cultivars grown in their yearly trials.
 
-
-
-
+<param ve-image fit
+       label="Anemone specimens from Mary Somerset's herbarium, each enclosed in its own sheet of paper"
+       description="In the Sloane Herbarium, Natural History Museum, London"
+url="https://herbariumworld.files.wordpress.com/2022/08/somerset_herbarium-sm.jpeg">
