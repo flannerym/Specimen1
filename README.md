@@ -40,8 +40,9 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q193155"> <!-- Louisiana Purschase -->
 <param ve-entity eid="Q67353" aliases="Frederick Pursh"> <!-- Frederick Traugott Pursh -->
 <param ve-entity eid="Q2822400"> <!-- Academy of Natural Sciences -->
+<param ve-entity eid="Q466089"> <!-- American Philosophical Society -->
 <param ve-entity eid="Q158303"> <!-- Oregon grape -->
-<param ve-entity eid="Q28953266" aliases="Lambert Herbarium"> <!-- Lambert Herbarium -->
+<param ve-entity eid="Q28953266" aliases="Lambert"> <!-- Lambert Herbarium -->
 
 
 # Early Herbaria
