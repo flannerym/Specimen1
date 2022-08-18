@@ -43,6 +43,9 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q466089"> <!-- American Philosophical Society -->
 <param ve-entity eid="Q158303"> <!-- Oregon grape -->
 <param ve-entity eid="Q28953266" aliases="Lambert"> <!-- Lambert Herbarium -->
+<param ve-entity eid="Q3850445"> <!-- Mary Somerset, Duchess of Beaufort -->
+<param ve-entity eid="Q131449"> <!-- flora -->
+<param ve-entity eid="Q2815948"> <!-- landscape architect -->
 
 
 # Early Herbaria
@@ -189,3 +192,11 @@ url="https://herbariumworld.files.wordpress.com/2022/08/lewis-and-clark-berberis
        label="Specimen of long-leafed sage (<em>Artemisia longifolia</em>) with original Lewis label of blue blotter paper: “No. 53, October 3rd flavor like the chamomile radix perennial growth of the high bluffs” 
        description="Deposited by the American Philosophical Society at the Academy of Natural Sciences of Drexel University (PH Herbarium PH00043182677)"
 url="https://herbariumworld.files.wordpress.com/2022/08/lewis-artemesia-longifolia.jpg">
+
+
+
+While economics drove much plant collecting, aesthetics also played a key role.  For many botanists, it was thrilling to discover and describe new species, especially from parts of the world where the flora was so different.  Some were interested in cultivating new plants in their gardens and sharing them with other enthusiasts.  Eventually nurseries were founded to support this work and make it profitable with beauty and novelty as drivers.  In the 17th and 18th centuries primarily the upper classes had the means to create gardens with hothouses to nurture exotic species from the tropics and have reference libraries.  Mary Somerset Duchess of Beaufort kept a herbarium not only for exotic species but for varieties of garden plants like anemones.  She and others experimented with growing delicate plants which they then passed on to botanists hadn’t cultivation skills.  Like Beaufort, many gardeners documented their achievements with specimens.  In the 20th century, the landscape architect Beatrix Farrand created an herbarium of species grown in her Reef Point Garden; the labels recorded where each was planted, valuable information since the garden no longer exists.  Today, the British Royal Horticultural Society herbarium among others specializes in cultivated plants including new cultivars grown in their yearly trials.
+
+
+
+
