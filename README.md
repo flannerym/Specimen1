@@ -227,3 +227,8 @@ In the late 18th and 19th centuries plant collecting increased significantly as 
        description="Three plant collecting tools"
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/08/tools.jpg">
+
+<param ve-image fit
+       label="Emily Dickinson specimens labeled specimens <em>Oxalis violacea, Ipomoea quamoclit, Clematis viorna,</em> and <em>Orobanche americana</em>"
+       description="Dickinson herbarium. Houghton Library, Harvard University"
+url="https://herbariumworld.files.wordpress.com/2022/08/dickinson.jpg">
