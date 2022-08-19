@@ -48,6 +48,9 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q2815948"> <!-- landscape architect -->
 <param ve-entity eid="Q437714"> <!-- Beatrix Farrand -->
 <param ve-entity eid="Q1032739"> <!-- Royal Horticultural Society -->
+<param ve-entity eid="Q894671"> <!-- vasculum -->
+<param ve-entity eid="Q25100778"> <!-- plant press -->
+
 
 
 # Early Herbaria
@@ -212,4 +215,13 @@ url="https://herbariumworld.files.wordpress.com/2022/08/farrand-erica.jpg">
        label="Specimen of monkshood (<em>Aconitum carmichaelii</em> Debeaux [Wilsonii Group]) ‘Barker’s Variety,’ includes individual flowers and flower parts"
        description="The 1851 Royal Commission Herbarium, RHS Garden Wisley"
 url="https://herbariumworld.files.wordpress.com/2022/08/rhs-sm.jpeg">
-       description="The 1851 Royal Commission Herbarium, RHS Garden Wisley"
+
+
+In the late 18th and 19th centuries plant collecting increased significantly as not only explorers and the upper classes participated but also laborers, women, and children.  The tools for gathering plants—a tin container called a vasculum, a plant press, a hand lens—became status symbols for collectors.  Herbaria were popular for learning about plants and as symbols of that learning, which was seen as morally good, a way to appreciate God’s creations.  The poet Emily Dickinson made one while at school writing to a friend:  “Have you made an herbarium yet? . . . ’most all the girls are making one.”  Scottish baker and naturalist, Robert Dick attempted to collect all the species in the area, if not in Britain.  The British writer Margaret Gatty was middle-aged when she became enamored of seaweeds, collected them whenever she could, and corresponded with experts in the field to learn more.  They in turn relied on her for specimens of species new to them or even new to science.  She published scientific journal articles and a popular guide to seaweeds; other women also bridged the gap between amateur and professional in botany. 
+       
+       
+       
+       
+       
+       
+       
