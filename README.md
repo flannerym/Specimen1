@@ -50,8 +50,9 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q1032739"> <!-- Royal Horticultural Society -->
 <param ve-entity eid="Q894671"> <!-- vasculum -->
 <param ve-entity eid="Q25100778"> <!-- plant press -->
-<param ve-entity eid="Q2474207" aliases="hand lens"> <!--loupe -->
-
+<param ve-entity eid="Q2474207" aliases="hand lens"> <!-- loupe -->
+<param ve-entity eid="Q4441""> <!-- Emily Dickinson -->
+<param ve-entity eid="Q7343526"> <!-- Robert Dick -->
 
 
 # Early Herbaria
