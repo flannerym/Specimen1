@@ -232,3 +232,8 @@ url="https://herbariumworld.files.wordpress.com/2022/08/tools.jpg">
        label="Emily Dickinson specimens labeled specimens <em>Oxalis violacea, Ipomoea quamoclit, Clematis viorna,</em> and <em>Orobanche americana</em>"
        description="Dickinson herbarium. Houghton Library, Harvard University"
 url="https://herbariumworld.files.wordpress.com/2022/08/dickinson.jpg">
+
+<param ve-image fit
+       label="Specimen of <em>Delesseria sanguinea</em>, collected by Margaret Gatty in Hastings, England" 
+       description="Museums Sheffield"
+url="https://herbariumworld.files.wordpress.com/2022/08/gatty-seaweed.png">
