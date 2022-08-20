@@ -56,8 +56,9 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q1382113"> <!-- Margaret Gatty -->
 <param ve-entity eid="Q237169"> <!-- seaweed -->
 <param ve-entity eid="Q2439719"> <!-- lectotype -->
-<param ve-entity eid="Q56515921" aliases "<em>The Natural History of Carolina, Florida, and the Bahama Islands</em>"> <!-- The Natural History of Carolina, Florida, and the Bahama Islands -->
 <param ve-entity eid="Q334914"> <!-- Mark Catesby -->
+<param ve-entity eid="Q56515921" aliases="The Natural History of Carolina, Florida, and the Bahama Islands"> <!-- The Natural History of Carolina, Florida, and the Bahama Islands -->
+
 
 # Early Herbaria
 
