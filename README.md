@@ -237,3 +237,6 @@ url="https://herbariumworld.files.wordpress.com/2022/08/dickinson.jpg">
        label="Specimen of <em>Delesseria sanguinea</em>, collected by Margaret Gatty in Hastings, England" 
        description="Museums Sheffield"
 url="https://herbariumworld.files.wordpress.com/2022/08/gatty-seaweed.png">
+
+
+The 19th century saw the development of the type specimen.  This led to naming as a type a single specimen among those studied by the author of the species’ first published description.  “Type” here does not mean typical.  It may not be most representative of the species, but it’s the one the author chose.  For species named earlier, such as those of Linnaeus, botanists have attempted to identify specimens the author had seen and designate them as “lectotypes.”  In some cases, this may not be a specimen but an illustration, as some species named by Linnaeus from images in Mark Catesby’s Natural History of Carolina, Florida, and the Bahama Islands, suggesting art’s significance in botanical inquiry.  Often type specimens are kept in red folders making them easier to find.  Sometimes they are stored together, so in an emergency they can be easily moved to safety.  This is how the botanist Alice Eastwood saved the types at the California Academy of Sciences after the 1906 San Francisco earthquake, before the city were engulfed by fire.  
