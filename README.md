@@ -259,3 +259,6 @@ url="https://herbariumworld.files.wordpress.com/2022/08/catesby_sarracenia.jpeg"
        description="Collected by Alice Eastwood in Monterey, CA, April 15, 1900. California Academy of Sciences"
        license="CC BY-NC"
 url="https://herbariumworld.files.wordpress.com/2022/08/eastwood.jpg">
+
+
+Botanists studying a genus or family often seek out type specimens as a way to insure that they have a good sense of the differences among the species in a genus, particularly if they have found what they think is a new species.  In the past, type specimens were sometimes difficult to locate and could require borrowing them or travel perhaps to a different continent.  Additionally the majority of types were in collections of former colonial powers.  Yet there is much greater biodiversity in tropical areas, often former colonies working to build botanical expertise with few resources.  To ease these disparities, digitizing label data and imaging specimens began on a large scale in the 2000s.  Millions of sheets are now freely available online, though the digital infrastructure is insufficient in many countries.
