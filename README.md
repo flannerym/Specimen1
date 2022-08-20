@@ -55,7 +55,7 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q7343526"> <!-- Robert Dick -->
 <param ve-entity eid="Q1382113"> <!-- Margaret Gatty -->
 <param ve-entity eid="Q237169"> <!-- seaweed -->
-<param ve-entity eid="Q2439719"> <!-- lectotypes -->
+<param ve-entity eid="Q2439719" aliases="lectotypes"> <!-- lectotype -->
 <param ve-entity eid="Q334914"> <!-- Mark Catesby -->
 <param ve-entity eid="Q56515921"> <!-- The Natural History of Carolina, Florida, and the Bahama Islands -->
 
