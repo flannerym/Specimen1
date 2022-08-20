@@ -65,7 +65,7 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 
 # Early Herbaria
 
-The Italian physician and botanist Luca Ghini began preserving pla<ts in the 1530s.  Since plants were sources of many medicines, physicians had to identify species with healing properties, and relied on ancient texts recently translated into Latin from Greek and Arabic.  However these authors had lived in the eastern Mediterranean, and it was becoming clear that some plants they described were different from those growing further west and north.  Ghini and others concluded that to learn about these species careful observation was key:  how they grew and developed and the effects of preparations made from various plant parts.  He studied garden plants and those he gathered on fieldtrips, which were becoming more common.  But observation wasn’t enough, the visual had to be turned into text.  Notes were important in passing the information on to others:  in letters, in teaching, and in publications.
+The Italian physician and botanist Luca Ghini began preserving plants in the 1530s.  Since plants were sources of many medicines, physicians had to identify species with healing properties, and relied on ancient texts recently translated into Latin from Greek and Arabic.  However these authors had lived in the eastern Mediterranean, and it was becoming clear that some plants they described were different from those growing further west and north.  Ghini and others concluded that to learn about these species careful observation was key:  how they grew and developed and the effects of preparations made from various plant parts.  He studied garden plants and those he gathered on fieldtrips, which were becoming more common.  But observation wasn’t enough, the visual had to be turned into text.  Notes were important in passing the information on to others:  in letters, in teaching, and in publications.
 
 <param ve-image fit="contain"
        label="<em>Anenome hortensis</em>" 
@@ -247,3 +247,9 @@ url="https://herbariumworld.files.wordpress.com/2022/08/gatty-seaweed.png">
 
 
 The 19th century saw the development of the type specimen.  This led to naming as a type a single specimen among those studied by the author of the species’ first published description.  “Type” here does not mean typical.  It may not be most representative of the species, but it’s the one the author chose.  For species named earlier, such as those of Linnaeus, botanists have attempted to identify specimens the author had seen and designate it as a lectotype.  In some cases, this may not be a specimen but an illustration, as some species named by Linnaeus from images in Mark Catesby's <em>The Natural History of Carolina, Florida, and the Bahama Islands</em>, suggesting art’s significance in botanical inquiry.  Often type specimens are kept in red folders making them easier to find.  Sometimes they are stored together, so in an emergency they can be easily moved to safety.  This is how the botanist Alice Eastwood saved the types at the California Academy of Sciences after the 1906 San Francisco earthquake, before the city were engulfed by fire.  
+
+<param ve-image fit="cover"
+       label="Yellow pitcherplant (<em>Sarracenia flava</em>) by Mark Catesby"
+       description="In <em>The Natural History of Carolina, Florida and the Bahama Islands</em>, Vol 2, Plate 69. Smithsonian Libraries"
+       license="public domain"
+url="https://herbariumworld.files.wordpress.com/2022/08/catesby_sarracenia.jpeg">
