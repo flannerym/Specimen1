@@ -56,10 +56,10 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q1382113"> <!-- Margaret Gatty -->
 <param ve-entity eid="Q237169"> <!-- seaweed -->
 <param ve-entity eid="Q2439719"> <!-- lectotype -->
-<param ve-entity eid="Q334914"> <!-- Mark Catesby -->
+<param ve-entity eid="Q334914" aliases="Mark Catesby's"> <!-- Mark Catesby -->
 <param ve-entity eid="Q56515921" aliases="The Natural History of Carolina, Florida, and the Bahama Islands"> <!-- The Natural History of Carolina, Florida, and the Bahama Islands -->
 <param ve-entity eid="Q460241"> <!-- Alice Eastwood-->
-<param ve-entity eid="Q465731"> <!-- California Academy of Sciences -->
+<param ve-entity eid="Q965731"> <!-- California Academy of Sciences -->
 <param ve-entity eid="Q211386"> <!-- 1906 San Francisco Earthquake -->
 
 
@@ -246,4 +246,4 @@ url="https://herbariumworld.files.wordpress.com/2022/08/dickinson.jpg">
 url="https://herbariumworld.files.wordpress.com/2022/08/gatty-seaweed.png">
 
 
-The 19th century saw the development of the type specimen.  This led to naming as a type a single specimen among those studied by the author of the species’ first published description.  “Type” here does not mean typical.  It may not be most representative of the species, but it’s the one the author chose.  For species named earlier, such as those of Linnaeus, botanists have attempted to identify specimens the author had seen and designate it as a lectotype.  In some cases, this may not be a specimen but an illustration, as some species named by Linnaeus from images in <em>The Natural History of Carolina, Florida, and the Bahama Islands</em> by Mark Catesby, suggesting art’s significance in botanical inquiry.  Often type specimens are kept in red folders making them easier to find.  Sometimes they are stored together, so in an emergency they can be easily moved to safety.  This is how the botanist Alice Eastwood saved the types at the California Academy of Sciences after the 1906 San Francisco earthquake, before the city were engulfed by fire.  
+The 19th century saw the development of the type specimen.  This led to naming as a type a single specimen among those studied by the author of the species’ first published description.  “Type” here does not mean typical.  It may not be most representative of the species, but it’s the one the author chose.  For species named earlier, such as those of Linnaeus, botanists have attempted to identify specimens the author had seen and designate it as a lectotype.  In some cases, this may not be a specimen but an illustration, as some species named by Linnaeus from images in Mark Catesby's <em>The Natural History of Carolina, Florida, and the Bahama Islands</em>, suggesting art’s significance in botanical inquiry.  Often type specimens are kept in red folders making them easier to find.  Sometimes they are stored together, so in an emergency they can be easily moved to safety.  This is how the botanist Alice Eastwood saved the types at the California Academy of Sciences after the 1906 San Francisco earthquake, before the city were engulfed by fire.  
