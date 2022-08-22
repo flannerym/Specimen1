@@ -286,3 +286,14 @@ url="https://herbariumworld.files.wordpress.com/2022/08/humboldt-sm.jpeg">
        label="Type specimen of <em>Solanum humboldtianum</em> collected by Juan Granados-Tochoy and W. Meier in 2005 on the western slopes of the Andean Cordillera Oriental in Colombia"
        description="Universidad Nacional de Colombia"
 url="https://herbariumworld.files.wordpress.com/2022/08/humboldt-new.jpeg">
+
+<param ve-image fit
+       label="Specimen of <em>Franklinia alatamaha</em> collected by William Bartram in Georgia in June 1773"
+       description="Natural History Museum, London"
+url="https://herbariumworld.files.wordpress.com/2022/08/franklinia-specimen-sm.jpeg">
+
+<param ve-image fit
+       label="Watercolor <em>Franklinia alatamaha</em> of by William Bartram 1782"
+       description="Natural History Museum, London"
+url="https://herbariumworld.files.wordpress.com/2022/08/franklinia-illustration.jpg">
+
