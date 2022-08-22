@@ -278,7 +278,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/herbarium-map.jpeg">
 Specimen data is crucial as biodiversity is threatened by climate change and habitat destruction.  The best estimate of known plant species is about 450,000.  Almost 2000 new species were described in 2019 alone, including many collected much earlier.  One study found that only about 16% of new species are described within 5 years of collection and 25% waited at least 50 years.  A new species in the potato family was recently discovered in Peru, and the botanists describing found a specimen collected in 1801 in the French National Museum of Natural History herbarium.  In other cases herbaria house specimens of species now extinct in the wild.  Philadelphia nurseryman John Bartram and his son William discovered a flowering tree (<em>Franklinia Alatamaha</em>) along the Altamaha River in Georgia in 1765.  William later returned and collected specimens and seeds.  He successfully grew the tree, which is still cultivated in gardens, but after the early 1800s it was extinct in the wild, the fate of a number of plants, some known only through specimens.
 
 <param ve-image fit compare="true"
-       label="Specimen of <em>Solanum humboldtianum</em> collected by Alexander von Humboldt and Aimé Bonpland near Bogotá, Colombia
+       label="Specimen of <em>Solanum humboldtianum</em> collected by Alexander von Humboldt and Aimé Bonpland near Bogotá, Colombia"
        description="National Museum of Natural History, Paris"
 url="https://herbariumworld.files.wordpress.com/2022/08/humboldt-sm.jpeg">
 
