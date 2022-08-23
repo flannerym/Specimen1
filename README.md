@@ -66,6 +66,9 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ev-entity eid="Q528476"> <!-- John Bartram -->
 <param ve-entity eid="Q18243" aliases="William"> <!-- William Bartram -->
 <param ve-entity eid="Q1445326"> <!-- Franklinia alatamaha -->
+<param ve-entity eid="Q380546"> <!-- DNA sequencing -->
+<param ve-entity eid="Q22664"> <!-- geographic coordinates -->
+<param ve-entity eid="Q843958"> <!-- digitization -->
 
 
 # Early Herbaria
@@ -297,3 +300,5 @@ url="https://herbariumworld.files.wordpress.com/2022/08/franklinia-specimen-sm.j
        description="Natural History Museum, London"
 url="https://herbariumworld.files.wordpress.com/2022/08/franklinia-illustration.jpg">
 
+
+Continued collection is important for many reasons and scientists are using specimens for a greater variety of research questions.  Digitization not only makes collections more accessible; the data  are earchable so they can be used, for example, to track flowering times.  If possible, plants are collected when they are in flower or fruit since these structures are often definitive in identification.  With large numbers of specimens online, researchers can search for changes in flowering dates over decades if not centuries, and some changes are attributed to global warming.  Geographic coordinates when recorded can provide a picture of species range and suggest where to seek new populations and future range changes.  These studies wouldn’t be feasible without digitization.  Physical specimens continue to yield information, from presence of substances with medicinal effects, to DNA sequencing clarifying genetic relationships among species, to chemical changes indicating responses to herbivore damage.  Researchers are also developing tools making new types of inquiry possible.  One vision is the Digital Extended Specimen, a single website linking specimens to images, genetic sequences, evolutionary trees, ecological data, and field notes.
