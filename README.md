@@ -74,7 +74,10 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q79012"> <!-- Ferdinand Bauer -->
 <param ve-entity eid-"Q62952" aliases="Georg Ehret"> <!-- Georg Dyonysius Ehret -->
 <param ve-entity eid="Q936580"> <!-- John Sibthorp -->
-<param ve-entity edi="Q731937" aliases="José Celestino Mutis"> <!-- Jose Celestino Mutis -->
+<param ve-entity eid="Q731937" aliases="José Celestino Mutis"> <!-- Jose Celestino Mutis -->
+<param ve-entity eid="Q135744"> <!-- Anselm Kiefer -->
+<param ve-entity eid="Q80005"> <!-- fern -->
+<param ve-entity eid="Q17034446" aliases="Erwin Driessens and Maria Verstappen"> <!--Driessens and Verstappen -->
 
 
 # Early Herbaria
@@ -344,4 +347,4 @@ url="https://herbariumworld.files.wordpress.com/2022/08/mutis_ellianthus-sm.jpeg
 url="https://herbariumworld.files.wordpress.com/2022/08/delonix-sm.jpeg">
 
 
-While botanical illustrations continue to be published, new artforms using herbarium specimens are arising.  The idea of the herbarium is used by artists focusing on threats to biodiversity.  Anselm Kieffer creates powerful works that speak to this theme including Secret of the Ferns, an installation with two bunkers at the center of a room lined on two sides by massive framed “specimens” of ferns, an ancient lineage that has survived to this day.  Erwin Driessens and Maria Verstappen address human manipulation of plants in their Herbarium Vivum: large flat boxes with one side made of glass where plants have been trained to grow in two dimensions rather than three.  The prints in Melissa Oresky’s artist’s book Finder are derived from herbarium specimens but are given very different organization in a process she calls “composting.”  The specimens are from an herbarium under threat of extinction because of shifting institutional priorities.   
+While botanical illustrations continue to be published, new artforms using herbarium specimens are arising.  The idea of the herbarium is used by artists focusing on threats to biodiversity.  Anselm Kiefer creates powerful works that speak to this theme including <em>Secret of the Ferns</em>, an installation with two bunkers at the center of a room lined on two sides by massive framed “specimens” of ferns, an ancient lineage that has survived to this day.  Erwin Driessens and Maria Verstappen address human manipulation of plants in their Herbarium Vivum: large flat boxes with one side made of glass where plants have been trained to grow in two dimensions rather than three.  The prints in Melissa Oresky’s artist’s book <em>Finder</em> are derived from herbarium specimens but are given very different organization in a process she calls “composting.”  The specimens are from an herbarium under threat of extinction because of shifting institutional priorities.   
