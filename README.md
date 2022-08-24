@@ -329,4 +329,9 @@ url="https://herbariumworld.files.wordpress.com/2022/08/ames-dendrochilum-sm.jpe
 url="https://herbariumworld.files.wordpress.com/2022/08/ehret_turnera-sm.jpeg">
 
 
-"
+<param ve-image fit
+       label="Pale garlic (<em>Allium paniculatum</em>) by Ferdinand Bauer for John Sibthorp’s <em>Flora Graeca</em> Vol. 4, Plate 318"
+       description="Linda Hall Library"
+url="https://herbariumworld.files.wordpress.com/2022/08/sibthorp_allium-sm.jpeg">
+
+
