@@ -357,3 +357,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/kiefer_ferns.jpeg">
 <param ve-image fit
        label="Erwin Driessens and Maria Verstappen’s <em>Herbarium Vivum I</em> (2013), a site-specific installation of ten boxes; pictured is one with a live tobacco plant"
 url="https://herbariumworld.files.wordpress.com/2022/08/driessens_amstelpark-tabacco.jpeg">
+
+<param ve-image fit
+       label="Melissa Oresky’s artist’s book, <em>Finder</em> (2020), pages with the ferns <em>Polypodium virginianum</em> and <em>Polypodium vulgare</em>"
+url="https://herbariumworld.files.wordpress.com/2022/08/oresky_finder.jpeg">
