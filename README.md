@@ -75,7 +75,7 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid-"Q62952" aliases="Georg Ehret"> <!-- Georg Dyonysius Ehret -->
 <param ve-entity eid="Q936580"> <!-- John Sibthorp -->
 <param ve-entity eid="Q731937" aliases="José Celestino Mutis"> <!-- Jose Celestino Mutis -->
-<param ve-entity eid="Q135744"> <!-- Anselm Kiefer -->
+<param ve-entity eid="Q170344"> <!-- Anselm Kiefer -->
 <param ve-entity eid="Q80005" aliases="ferns"> <!-- fern -->
 <param ve-entity eid="Q13574446" aliases="Erwin Driessens and Maria Verstappen"> <!--Driessens and Verstappen -->
 
@@ -354,3 +354,6 @@ While botanical illustrations continue to be published, new artforms using herba
        description="Collection of Martin Z. Margulies, Miami"
 url="https://herbariumworld.files.wordpress.com/2022/08/kiefer_ferns.jpeg">  
 
+<param ve-image fit
+       label="Erwin Driessens and Maria Verstappen’s <em>Herbarium Vivum I</em> (2013), a site-specific installation of ten boxes; pictured is one with a live tobacco plant"
+url="https://herbariumworld.files.wordpress.com/2022/08/driessens_amstelpark-tabacco.jpeg">
