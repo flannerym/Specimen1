@@ -338,7 +338,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/sibthorp_allium-sm.jpeg"
        description="Real Jardín Botánico-CSIC"
 url="https://herbariumworld.files.wordpress.com/2022/08/mutis_ellianthus-sm.jpeg">
 
-
-
-
-
+<param ve-image fit
+       label="Illustration by an unnamed artist of royal poinciana (<em>Delonix regia</em>) among a collection of watercolors created at the Garden of Dapuri in Mumbai, India in the mid-nineteenth century. This tree is native to Madagascar, but by this time had been planted in many tropical areas as a street tree"
+       description="Archives of the Royal Botanic Garden, Edinburgh"
+url="https://herbariumworld.files.wordpress.com/2022/08/delonix-sm.jpeg">
