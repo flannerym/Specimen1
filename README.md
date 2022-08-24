@@ -71,9 +71,10 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q843958"> <!-- digitization -->
 <param ve-entity eid="Q1669326"> <!-- Oakes Ames -->
 <param ve-entity eid="Q4924825" aliases="Blanche"> <!-- Blanche Ames -->
-<param ve-entity eid="Q79012" aliases="Georg Ehret"> <!-- Georg Dyonysius Ehret -->
+<param ve-entity eid="Q79012"> <!-- Ferdinand Bauer -->
+<param ve-entity eid-"Q62952" aliases="Georg Ehret"> <!-- Georg Dyonysius Ehret -->
 <param ve-entity eid="Q936580"> <!-- John Sibthorp -->
-<param ve-entity eid="Q5460305"> <!--Flora Graeca -->
+<param ve-entity edi="Q731937"> <!-- Jose Celestino Mutis -->
 
 
 # Early Herbaria
