@@ -76,8 +76,8 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q936580"> <!-- John Sibthorp -->
 <param ve-entity eid="Q731937" aliases="José Celestino Mutis"> <!-- Jose Celestino Mutis -->
 <param ve-entity eid="Q135744"> <!-- Anselm Kiefer -->
-<param ve-entity eid="Q80005"> <!-- fern -->
-<param ve-entity eid="Q17034446" aliases="Erwin Driessens and Maria Verstappen"> <!--Driessens and Verstappen -->
+<param ve-entity eid="Q80005" aliases="ferns"> <!-- fern -->
+<param ve-entity eid="Q13574446" aliases="Erwin Driessens and Maria Verstappen"> <!--Driessens and Verstappen -->
 
 
 # Early Herbaria
