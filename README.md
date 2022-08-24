@@ -69,6 +69,8 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q380546"> <!-- DNA sequencing -->
 <param ve-entity eid="Q22664"> <!-- geographic coordinates -->
 <param ve-entity eid="Q843958"> <!-- digitization -->
+<param ve-entity eid="Q1669326"> <!-- Oakes Ames -->
+<param ve-entity eid="Q4924825" aliases="Blanche"> <!-- Blanche Ames -->
 
 
 # Early Herbaria
