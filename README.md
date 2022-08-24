@@ -348,3 +348,9 @@ url="https://herbariumworld.files.wordpress.com/2022/08/delonix-sm.jpeg">
 
 
 While botanical illustrations continue to be published, new artforms using herbarium specimens are arising.  The idea of the herbarium is used by artists focusing on threats to biodiversity.  Anselm Kiefer creates powerful works that speak to this theme including <em>Secret of the Ferns</em>, an installation with two bunkers at the center of a room lined on two sides by massive framed “specimens” of ferns, an ancient lineage that has survived to this day.  Erwin Driessens and Maria Verstappen address human manipulation of plants in their Herbarium Vivum: large flat boxes with one side made of glass where plants have been trained to grow in two dimensions rather than three.  The prints in Melissa Oresky’s artist’s book <em>Finder</em> are derived from herbarium specimens but are given very different organization in a process she calls “composting.”  The specimens are from an herbarium under threat of extinction because of shifting institutional priorities.   
+
+<param ve-image fit
+       label="Anselm Kiefer, <em>The Secret of the Ferns</em> (2007)"
+       description="Collection of Martin Z. Margulies, Miami"
+url="https://herbariumworld.files.wordpress.com/2022/08/kiefer_ferns.jpeg">  
+
