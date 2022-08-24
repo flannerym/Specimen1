@@ -320,6 +320,6 @@ Those interested in the plant humanities also see potential for the Extended Spe
 
 <param ve-image fit
        label="Specimen of the orchid <em>Dendrochilum aurantiacum</em> with watercolor by Blanche Ames done from the living plant when it was given to Oakes Ames by Rudolf Schlechter in Berlin"
-       description="Orchid Herbarium of Oakes Ames, Harvard University.
+       description="Orchid Herbarium of Oakes Ames, Harvard University"
 url="https://herbariumworld.files.wordpress.com/2022/08/ames-dendrochilum-sm.jpeg">
 
