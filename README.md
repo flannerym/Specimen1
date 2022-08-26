@@ -102,7 +102,7 @@ Drawings were also helpful in documenting a plant’s appearance at various life
 Ghini taught plant preservation to his students and fellow botanists who quickly saw its value.  He often augmented the specimens with drawings, written descriptions, and even prints taken from a published herbal on medicinal plants.  These images were in a style based on careful observation that developed in Northern Europe and then moved into the work of botanists like Ghini.  The visual was especially important since texts were reliant on ancient writers and a vocabulary for describing plant traits had yet to be developed.  Even the concepts of genus and species, which seem quite obvious today, took about two centuries to mature.  
 
 <param ve-image fit compare="true"
-       label="Wood engraving of septfoil (<em>Tormentilla<em>) from <em>Herbarum Vivae Eicones</em> (1530) by Otto Brunfels, with the lower stems drooping indicating that a particular specimen was depicted"
+       label="Wood engraving of septfoil (<em>Tormentilla</em>) from <em>Herbarum Vivae Eicones</em> (1530) by Otto Brunfels, with the lower stems drooping indicating that a particular specimen was depicted"
        description="Missouri Botanical Garden"
        license="public domain"
        url="https://herbariumworld.files.wordpress.com/2022/08/brunfels_tormentilla.jpeg">
@@ -123,7 +123,7 @@ The 16th century was a time of experimentation in how best to communicate inform
 url="https://viewer.burgerbib.ch/Bilddateien/ES_70_1_master/ES_70_1_312.jpg">
 
 <param ve-image fit
-       label="Grass specimen from the following page of Felix Platter herbarium, Vol. 1, page 313" 
+       label="Grass specimens from the following page of the Felix Platter herbarium, Vol. 1, page 313" 
        description="Burger Library Bern"
        license="public domain"
 url="https://viewer.burgerbib.ch/Bilddateien/ES_70_1_master/ES_70_1_313.jpg"> 
