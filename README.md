@@ -117,20 +117,20 @@ Ghini taught plant preservation to his students and fellow botanists who quickly
 The 16th century was a time of experimentation in how best to communicate information about plants.  Ghini assisted his colleague Pietro Andrea Mattioli in interpreting an ancient text by sending him notes, specimens and drawings.  Mattioli used all these along with live plants, but disposed of the specimens after studying them.  He didn’t consider them worth saving, though he later regretted this.  The Swiss botanist and physician Felix Platter pasted one or more images on the left-hand page and a specimen of the same plant on the right, so he could easily compare them.  Others affixed them to the same sheet.  Some painted in missing parts of a plant.  Still others applied oily ink to a specimen and made a nature print of it.  While drawings are still added to herbarium sheets, the more creative approaches have not survived.  Somewhat later, embellishments were added to sheets in some herbaria to signify the status of the owner.  Printed vases and elaborate labels adorned the specimens of wealthy in 18th-century Dutch collectors.
        
 <param ve-image fit compare="true"
-       label="Zea illustrations"
-       description="Felix Platter herbarium, Vol. 1, page 312; Burger Library Bern"
+       label="Illustrations of grasses from the Felix Platter herbarium, Vol. 1, page 312"
+       description="Burger Library Bern"
        license="public domain"
 url="https://viewer.burgerbib.ch/Bilddateien/ES_70_1_master/ES_70_1_312.jpg">
 
 <param ve-image fit
-       label="Zea specimen"
-       description="Felix Platter herbarium, Vol. 1, page 313; Burger Library Bern
+       label="Grass specimen from the following page of Felix Platter herbarium, Vol. 1, page 313" 
+       description="Burger Library Bern"
        license="public domain"
 url="https://viewer.burgerbib.ch/Bilddateien/ES_70_1_master/ES_70_1_313.jpg"> 
 
 <param ve-image fit
        label="Woodcut of five-spice anemone"
-       description="In <em>I discorsi</em> by Andrea Pietro Mattioli, p. 833. Getty Research Institute.
+       description="In <em>I discorsi</em> by Andrea Pietro Mattioli, p. 833. Getty Research Institute"
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/08/mattioli_anemone.jpeg">
 
