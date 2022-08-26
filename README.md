@@ -141,7 +141,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/mattioli_anemone.jpeg">
 url="https://herbariumworld.files.wordpress.com/2022/08/kentmann_vitis.jpg">
 
 <param ve-image fit
-       label="Marsh mallow (<em>Potentilla palustris</em>) in Johannes Harder's herbarium from about 1595 with <span data-click-image-zoomto="266,165,325,252">missing parts</span> painted in"
+       label="Marsh mallow (<em>Potentilla palustris</em>) in Johannes Harder's herbarium from about 1595 with painted in"
        description="Oak Spring Garden Foundation"
 url="https://herbariumworld.files.wordpress.com/2022/08/harder-sm.jpg"> 
 
