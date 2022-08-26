@@ -108,7 +108,7 @@ Ghini taught plant preservation to his students and fellow botanists who quickly
        url="https://herbariumworld.files.wordpress.com/2022/08/brunfels_tormentilla.jpeg">
 
 <param ve-image fit 
-       label="Wood engraving of septfoil from "<em>De Historia Stirpium</em> (1542) by Leonhard Fuchs, here an ideal plant is shown"
+       label="Wood engraving of septfoil from <em>De Historia Stirpium</em> (1542) by Leonhard Fuchs, here an ideal plant is shown"
        description="Smithsonian Institution"
        license="public domain"
        url="https://herbariumworld.files.wordpress.com/2022/08/fuchs_tormentilla.jpeg">
