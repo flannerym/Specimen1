@@ -141,12 +141,12 @@ url="https://herbariumworld.files.wordpress.com/2022/08/mattioli_anemone.jpeg">
 url="https://herbariumworld.files.wordpress.com/2022/08/kentmann_vitis.jpg">
 
 <param ve-image fit
-       label="Marsh mallow (<em>Potentilla palustris</em>) in Johannes Harder's herbarium from about 1595 with painted in"
+       label="Marsh mallow (<em>Potentilla palustris</em>) in Johannes Harder's herbarium from about 1595 with flower and water painted in"
        description="Oak Spring Garden Foundation"
 url="https://herbariumworld.files.wordpress.com/2022/08/harder-sm.jpg"> 
 
 <param ve-image fit
-       label="Specimen of sweet-amber (<em>Hypericum androsaemum</em>) with elaborate vase and label from the George Clifford Herbarium,"
+       label="Specimen of sweet-amber (<em>Hypericum androsaemum</em>) with elaborate vase and label from the George Clifford Herbarium"
        description="Natural History Museum, London"
        license="CCO-01"
 url="https://herbariumworld.files.wordpress.com/2022/08/clifford.jpg">
@@ -162,14 +162,12 @@ url="https://herbariumworld.files.wordpress.com/2022/08/fuchs-leaf.jpeg">
 By then, the herbarium had become an important research tool.  The Swedish botanist Carl Linnaeus argued that there was no substitute for it as the crucial source of information about a plant.  He tackled the problem of organizing the increasing number of species being discovered all over the world by classifying them.  He focused on the flower as having the most distinctive information, explaining why specimens are usually collected with fruit, flowers, or both.  In many species, flowers have both the male stamens with anthers containing pollen and the female pistils with egg-containing ovules.  Linnaeus divided plants into 24 classes based on number of stamens with subclasses based on pistil number.  This was considered an artificial system since species with very different overall properties were classified together based solely on stamen number.  Linnaeus had a cabinet built with 24 shelves, one for each class and kept the sheets loose so he could reclassify a species if necessary.  Linnaeus also limited species names to two words, the genus which included all species with similar properties and an epithet for each species.  Names had become longer as more species were discovered and needed to be differentiated from each other.  Linnaeus separated the name from the description, which he kept brief and succinct.
 
 <param ve-image fit
-       label="Linnaeus's plant classification system"
-       description="Illustration by Georg Ehret"
+       label="Illustration by Georg Ehret of Linnaeus's plant classification system"
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/08/ehret-sm.jpeg">
 
 <param ve-image fit
-       label="Linnaeus’s specimen cabinet at Hammarby, his farm outside Uppsala"
-       description'"Alongside the cubicles, the doors are marked with roman numerals for the twenty-four classes. The faded rectangles to the right are prints of Georg Ehret illustrations that Linnaeus had pasted to the walls of his bedroom so he could enjoy looking at them
+       label="Linnaeus’s specimen cabinet at Hammarby, his farm outside Uppsala. Alongside the cubicles, the doors are marked with roman numerals for the twenty-four classes. The faded rectangles to the right are prints of Georg Ehret illustrations that Linnaeus had pasted to the walls of his bedroom so he could enjoy looking at them"
        license="Gina Douglas HonFLS"
 url="https://herbariumworld.files.wordpress.com/2022/08/linn-cabinet-sm.jpeg">
 
