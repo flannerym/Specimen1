@@ -186,8 +186,8 @@ url="https://herbariumworld.files.wordpress.com/2022/08/hernacc81ndez_hoitziloxi
 With time, herbaria became crucial to plant documentation.  Travelers were tutored in how to collect and preserve specimens, not easy in tropical areas where it was difficult to dry them and protect them from destruction by insects and fungi.  Sometimes seedlings or cuttings might survive, but seeds fared better, though they could lose vitality or rot.  Seeds were highly desirable items of trade among European botanists because they held so much promise.  If they germinated and flowered, there would be more seeds to share, and plants could be made into specimens, then also shared.  This is why there are herbarium specimens of <span data-click-image-zoomto="235,72,1214,942">the tomato</span>, a Latin American species, from as early as the 1550s and illustrations date from about the same period.  Other species were more difficult to grow; exotics like pineapples and bananas were known primarily from illustrations and written descriptions.  
 
 <param ve-image fit
-       label="At right, fruiting specimen of tomato (<em>Solanum lycopersicum</em>)"
-       description="En Tibi herbarium, attributed to Francesco Petrollini, dating from about 1558. Naturalis Biodiversity Center, Leiden"
+       label="At right, fruiting specimen of tomato (<em>Solanum lycopersicum</em>) from En Tibi herbarium, attributed to the Italian botanist Francesco Petrollini (late 1550s)"
+       description="Naturalis Biodiversity Center, Leiden"
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/08/petrollin_tomato-sm.jpeg">
 
@@ -195,9 +195,9 @@ url="https://herbariumworld.files.wordpress.com/2022/08/petrollin_tomato-sm.jpeg
 Herbaria with specimens collected before Linnaeus’s work were often neglected in the past, because the plants weren’t named according to his system.  However, these materials are being reexamined with interesting results.  In 1687 Hendrik Meyer, a Dutch collector working in Surinam, gathered specimens growing there including two African food plants:  okra and sesame, giving evidence that African enslaved persons brought to work on plantations had carried seeds with them, one of many examples of the early movement of plants with links to the slave trade. This suggests how herbaria can contribute crucial evidence on cultural and political history and reveal what had long remained hidden.
 
 <param ve-image fit="cover"
-                   label="Wild sesame (<em>Sesamum radiatum</em>), vernacular name recorded as Bowangala"
-                   description="Paul Hermann Herbarium, Naturalis Biodiversity Center, Leiden"
-                   license="public domain"
+       label="Wild sesame (<em>Sesamum radiatum</em>), vernacular name recorded as Bowanga, in the Paul Hermann Herbarium"
+       description="Naturalis Biodiversity Center, Leiden"
+       license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/08/meyer_bowangala.jpg">
 
 
