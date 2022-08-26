@@ -129,32 +129,31 @@ url="https://viewer.burgerbib.ch/Bilddateien/ES_70_1_master/ES_70_1_312.jpg">
 url="https://viewer.burgerbib.ch/Bilddateien/ES_70_1_master/ES_70_1_313.jpg"> 
 
 <param ve-image fit
-       label="Woodcut of five-spice anemone"
-       description="In <em>I discorsi</em> by Andrea Pietro Mattioli, p. 833. Getty Research Institute"
+       label="Woodcut of five-spice anemone from <em>I discorsi</em> (1568) by Andrea Pietro Mattioli, p. 833"
+       description="Getty Research Institute"
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/08/mattioli_anemone.jpeg">
 
 <param ve-image fit
-       label="Grape (<em>Vitis</em>) nature print"
-       description="Johannes Kentmann manuscript book, Plantarum atque animantium nunquam Hactenus Impressarum, p. 436. Duchess Anna Amalia Library, Weimar"
+       label="Grape (<em>Vitis</em>) nature print in Johannes Kentmann's manuscript book, Plantarum atque animantium nunquam Hactenus Impressarum (1549), p. 436"
+       description="Duchess Anna Amalia Library, Weimar"
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/08/kentmann_vitis.jpg">
 
 <param ve-image fit
-       label="Marsh mallow (<em>Potentilla palustris</em>) specimen"
-       description="Johannes Harder herbarium"
-       license="Oak Spring Garden Foundation"
+       label="Marsh mallow (<em>Potentilla palustris</em>) in Johannes Harder's herbarium from about 1595"
+       description="Oak Spring Garden Foundation"
 url="https://herbariumworld.files.wordpress.com/2022/08/harder-sm.jpg"> 
 
 <param ve-image fit
-       label="Specimen of sweet-amber (<em>Hypericum androsaemum</em>)"
-       description="With elaborate vase and label. George Clifford Herbarium, Natural History Museum, London"
+       label="Specimen of sweet-amber (<em>Hypericum androsaemum</em>) with elaborate vase and label from the George Clifford Herbarium,"
+       description="Natural History Museum, London"
        license="CCO-01"
 url="https://herbariumworld.files.wordpress.com/2022/08/clifford.jpg">
 
 <param ve-image fit
-       label="Solomon's seal (<em>Polygonatum latifolium</em>), with leaves pasted on"
-       description="Copy of image from Fuchs"
+       label="Solomon's seal (<em>Polygonatum latifolium</em>), with leaves pasted on; copy of image from Leonhard Fuchs"
+       description="British Museum"
        license="CC BY-NC-SA 4.0"
 url="https://herbariumworld.files.wordpress.com/2022/08/fuchs-leaf.jpeg">
 
