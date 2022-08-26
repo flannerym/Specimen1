@@ -85,16 +85,16 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 The Italian physician and botanist Luca Ghini began preserving plants in the 1530s.  Since plants were sources of many medicines, physicians had to identify species with healing properties, and relied on ancient texts recently translated into Latin from Greek and Arabic.  However these authors had lived in the eastern Mediterranean, and it was becoming clear that some plants they described were different from those growing further west and north.  Ghini and others concluded that to learn about these species careful observation was key:  how they grew and developed and the effects of preparations made from various plant parts.  He studied garden plants and those he gathered on fieldtrips, which were becoming more common.  But observation wasn’t enough, the visual had to be turned into text.  Notes were important in passing the information on to others:  in letters, in teaching, and in publications.
 
 <param ve-image fit="contain"
-       label="<em>Anenome hortensis</em>" 
-       description="Aldrovandi herbarium" 
+       label="Specimen of anemone now <em>Anenome hortensis</em> from the collection of Ulisse Aldrovandi, a colleague of Luca Ghini" 
+       description="University of Bologna" 
        license="public domain"
 url="http://137.204.21.141/ALDROVANDI/image/vol2fg338.JPG">   
                                                                                                   
 Drawings were also helpful in documenting a plant’s appearance at various life stages—budding, flowering, fruiting—because they often passed quickly.  This is where pressed plants became important.  A cutting was carefully spread out on absorbent paper, covered by another sheet, and pressed between boards, so the plant didn’t curl up as it dried.  Once dried, the plant would last indefinitely if kept from the three most common threats:  water, fire, and insects.  A label with at least the plant’s name insured that the specimen was tied to textual information.  At the time, a collection of pressed plants was called a hortus siccus, dry garden, or hortus hyemalis, winter garden for when live plant material was scarce.  The word herbarium was used more broadly for collections of plant images.
 
 <param ve-image fit
-       label="Bound herbarium of Johannes Harder"
-       description="Dated 1595"
+       label="Herbarium of Johannes Harder from about 1595; specimen sheets were often bound to preserve and keep them in order"
+       description="Oak Spring Garden Foundation"
        license="photo of author"
        url="https://herbariumworld.files.wordpress.com/2022/08/bound_harder.jpeg">
        
