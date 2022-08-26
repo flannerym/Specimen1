@@ -107,7 +107,7 @@ Ghini taught plant preservation to his students and fellow botanists who quickly
        description="Smithsonian Institution"
        license="public domain"
        url="https://herbariumworld.files.wordpress.com/2022/08/fuchs_tormentilla.jpeg">
-<param ve-compare fit
+<param ve-compare fit="contain"
        label="Wood engraving of septfoil (<em>Tormentilla</em>) from <em>Herbarum Vivae Eicones</em> (1530) by Otto Brunfels, with the lower stems drooping indicating that a particular specimen was depicted"
        description="Missouri Botanical Garden"
        license="public domain"
