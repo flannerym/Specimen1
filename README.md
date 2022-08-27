@@ -113,48 +113,49 @@ Ghini taught plant preservation to his students and fellow botanists who quickly
        license="public domain"
        url="https://herbariumworld.files.wordpress.com/2022/08/fuchs_tormentilla.jpeg">
                                                      
-The 16th century was a time of experimentation in how best to communicate information about plants.  Ghini assisted his colleague Pietro Andrea Mattioli in interpreting an ancient text by sending him notes, specimens and drawings.  Mattioli used all these along with live plants, but disposed of the specimens after studying them.  He didn’t consider them worth saving, though he later regretted this.  The Swiss botanist and physician Felix Platter pasted one or more images on the left-hand page and a specimen of the same plant on the right, so he could easily compare them.  Others affixed them to the same sheet.  Some painted in missing parts of a plant.  Still others applied oily ink to a specimen and made a nature print of it.  While drawings are still added to herbarium sheets, the more creative approaches have not survived.  Somewhat later, embellishments were added to sheets in some herbaria to signify the status of the owner.  Printed vases and elaborate labels adorned the specimens of wealthy in 18th-century Dutch collectors.
-       
-<param ve-image fit compare="true" ref="1"
-       label="Illustrations of grasses from the Felix Platter herbarium, Vol. 1, page 312"
-       description="Burger Library Bern"
-       license="public domain"
-url="https://viewer.burgerbib.ch/Bilddateien/ES_70_1_master/ES_70_1_312.jpg">
+The 16th century was a time of experimentation in how best to communicate information about plants.  Ghini assisted his colleague Pietro Andrea Mattioli in interpreting an <span data-click-image-zoomto="1">ancient text</span> by sending him notes, specimens and drawings.  Mattioli used all these along with live plants, but disposed of the specimens after studying them.  He didn’t consider them worth saving, though he later regretted this.  The Swiss botanist and physician Felix Platter pasted one or more images on the <span data-click-image-zoomto="2">left-hand page</span> and a specimen of the same plant on the <span data-click-image-zoomto="3">right</span>, so he could easily compare them.  Others affixed them to the same sheet.  Some <span data-click-image-zoomto="4">painted in missing parts</span> of a plant or <span data-click-image-zoomto="5">added plant parts to an image</span>.  Still others applied oily ink to a specimen and made a <span data-click-image-zoomto="6">nature print</span> of it.  While drawings are still added to herbarium sheets, the more creative approaches have not survived.  Somewhat later, embellishments were added to sheets in some herbaria to signify the status of the owner.  <span data-click-image-zoomto="7">Printed vases and elaborate labels</span> adorned the specimens of wealthy in 18th-century Dutch collectors.
 
-<param ve-image fit ref="2"
-       label="Grass specimens from the following page of the Felix Platter herbarium, Vol. 1, page 313" 
-       description="Burger Library Bern"
-       license="public domain"
-url="https://viewer.burgerbib.ch/Bilddateien/ES_70_1_master/ES_70_1_313.jpg"> 
-
-<param ve-image fit ref="3"
+<param ve-image fit ref="1"
        label="Woodcut of five-spice anemone from <em>I discorsi</em> (1568) by Andrea Pietro Mattioli, p. 833"
        description="Getty Research Institute"
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/08/mattioli_anemone.jpeg">
 
+<param ve-image fit ref="2"
+       label="Illustrations of grasses from the Felix Platter herbarium, Vol. 1, page 312"
+       description="Burger Library Bern"
+       license="public domain"
+url="https://viewer.burgerbib.ch/Bilddateien/ES_70_1_master/ES_70_1_312.jpg">
+
+<param ve-image fit ref="3"
+       label="Grass specimens from the following page of the Felix Platter herbarium, Vol. 1, page 313" 
+       description="Burger Library Bern"
+       license="public domain"
+url="https://viewer.burgerbib.ch/Bilddateien/ES_70_1_master/ES_70_1_313.jpg"> 
+
 <param ve-image fit ref="4"
+       label="Marsh mallow (<em>Potentilla palustris</em>) in Johannes Harder's herbarium from about 1595 with flower and water painted in"
+       description="Oak Spring Garden Foundation"
+url="https://herbariumworld.files.wordpress.com/2022/08/harder-sm.jpg"> 
+
+<param ve-image fit ref="5"
+       label="Solomon's seal (<em>Polygonatum latifolium</em>), with leaves pasted on; copy of image from Leonhard Fuchs"
+       description="British Museum"
+       license="CC BY-NC-SA 4.0"
+url="https://herbariumworld.files.wordpress.com/2022/08/fuchs-leaf.jpeg">
+
+<param ve-image fit ref="6"
        label="Grape (<em>Vitis</em>) nature print in Johannes Kentmann's manuscript book, Plantarum atque animantium nunquam Hactenus Impressarum (1549), p. 436"
        description="Duchess Anna Amalia Library, Weimar"
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/08/kentmann_vitis.jpg">
 
-<param ve-image fit ref="5"
-       label="Marsh mallow (<em>Potentilla palustris</em>) in Johannes Harder's herbarium from about 1595 with flower and water painted in"
-       description="Oak Spring Garden Foundation"
-url="https://herbariumworld.files.wordpress.com/2022/08/harder-sm.jpg"> 
-
-<param ve-image fit ref="6"
+<param ve-image fit ref="7"
        label="Specimen of sweet-amber (<em>Hypericum androsaemum</em>) with elaborate vase and label from the George Clifford Herbarium"
        description="Natural History Museum, London"
        license="CCO-01"
 url="https://herbariumworld.files.wordpress.com/2022/08/clifford.jpg">
 
-<param ve-image fit ref="7"
-       label="Solomon's seal (<em>Polygonatum latifolium</em>), with leaves pasted on; copy of image from Leonhard Fuchs"
-       description="British Museum"
-       license="CC BY-NC-SA 4.0"
-url="https://herbariumworld.files.wordpress.com/2022/08/fuchs-leaf.jpeg">
 
 # Carl Linnaeus
 
