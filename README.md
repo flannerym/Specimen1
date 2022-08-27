@@ -102,12 +102,12 @@ Drawings were also helpful in documenting a plant’s appearance at various life
 Ghini taught plant preservation to his students and fellow botanists who quickly saw its value.  He often augmented the specimens with drawings, written descriptions, and even prints taken from a published herbal on medicinal plants.  These images were in a style based on careful observation that developed in Northern Europe and then moved into the work of botanists like Ghini.  The visual was especially important since texts were reliant on ancient writers and a vocabulary for describing plant traits had yet to be developed.  Even the concepts of genus and species, which seem quite obvious today, took about two centuries to mature.  
 
 
-<param ve-image fit
+<param ve-image fit ref="1"
        label="Wood engraving of septfoil from <em>De Historia Stirpium</em> (1542) by Leonhard Fuchs, here an ideal plant is shown"
        description="Smithsonian Institution"
        license="public domain"
        url="https://herbariumworld.files.wordpress.com/2022/08/fuchs_tormentilla.jpeg">
-<param ve-image fit
+<param ve-image fit ref="2"
        label="Wood engraving of septfoil (<em>Tormentilla</em>) from <em>Herbarum Vivae Eicones</em> (1530) by Otto Brunfels, with the lower stems drooping indicating that a particular specimen was depicted"
        description="Missouri Botanical Garden"
        license="public domain"
@@ -116,42 +116,42 @@ Ghini taught plant preservation to his students and fellow botanists who quickly
        
 The 16th century was a time of experimentation in how best to communicate information about plants.  Ghini assisted his colleague Pietro Andrea Mattioli in interpreting an ancient text by sending him notes, specimens and drawings.  Mattioli used all these along with live plants, but disposed of the specimens after studying them.  He didn’t consider them worth saving, though he later regretted this.  The Swiss botanist and physician Felix Platter pasted one or more images on the left-hand page and a specimen of the same plant on the right, so he could easily compare them.  Others affixed them to the same sheet.  Some painted in missing parts of a plant.  Still others applied oily ink to a specimen and made a nature print of it.  While drawings are still added to herbarium sheets, the more creative approaches have not survived.  Somewhat later, embellishments were added to sheets in some herbaria to signify the status of the owner.  Printed vases and elaborate labels adorned the specimens of wealthy in 18th-century Dutch collectors.
        
-<param ve-image fit compare="true"
+<param ve-image fit compare="true" ref="1"
        label="Illustrations of grasses from the Felix Platter herbarium, Vol. 1, page 312"
        description="Burger Library Bern"
        license="public domain"
 url="https://viewer.burgerbib.ch/Bilddateien/ES_70_1_master/ES_70_1_312.jpg">
 
-<param ve-image fit
+<param ve-image fit ref="2"
        label="Grass specimens from the following page of the Felix Platter herbarium, Vol. 1, page 313" 
        description="Burger Library Bern"
        license="public domain"
 url="https://viewer.burgerbib.ch/Bilddateien/ES_70_1_master/ES_70_1_313.jpg"> 
 
-<param ve-image fit
+<param ve-image fit ref="3"
        label="Woodcut of five-spice anemone from <em>I discorsi</em> (1568) by Andrea Pietro Mattioli, p. 833"
        description="Getty Research Institute"
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/08/mattioli_anemone.jpeg">
 
-<param ve-image fit
+<param ve-image fit ref="4"
        label="Grape (<em>Vitis</em>) nature print in Johannes Kentmann's manuscript book, Plantarum atque animantium nunquam Hactenus Impressarum (1549), p. 436"
        description="Duchess Anna Amalia Library, Weimar"
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/08/kentmann_vitis.jpg">
 
-<param ve-image fit
+<param ve-image fit ref="5"
        label="Marsh mallow (<em>Potentilla palustris</em>) in Johannes Harder's herbarium from about 1595 with flower and water painted in"
        description="Oak Spring Garden Foundation"
 url="https://herbariumworld.files.wordpress.com/2022/08/harder-sm.jpg"> 
 
-<param ve-image fit
+<param ve-image fit ref="6"
        label="Specimen of sweet-amber (<em>Hypericum androsaemum</em>) with elaborate vase and label from the George Clifford Herbarium"
        description="Natural History Museum, London"
        license="CCO-01"
 url="https://herbariumworld.files.wordpress.com/2022/08/clifford.jpg">
 
-<param ve-image fit
+<param ve-image fit ref="7"
        label="Solomon's seal (<em>Polygonatum latifolium</em>), with leaves pasted on; copy of image from Leonhard Fuchs"
        description="British Museum"
        license="CC BY-NC-SA 4.0"
@@ -161,12 +161,12 @@ url="https://herbariumworld.files.wordpress.com/2022/08/fuchs-leaf.jpeg">
 
 By then, the herbarium had become an important research tool.  The Swedish botanist Carl Linnaeus argued that there was no substitute for it as the crucial source of information about a plant.  He tackled the problem of organizing the increasing number of species being discovered all over the world by classifying them.  He focused on the flower as having the most distinctive information, explaining why specimens are usually collected with fruit, flowers, or both.  In many species, flowers have both the male stamens with anthers containing pollen and the female pistils with egg-containing ovules.  Linnaeus divided plants into 24 classes based on number of stamens with subclasses based on pistil number.  This was considered an artificial system since species with very different overall properties were classified together based solely on stamen number.  Linnaeus had a cabinet built with 24 shelves, one for each class and kept the sheets loose so he could reclassify a species if necessary.  Linnaeus also limited species names to two words, the genus which included all species with similar properties and an epithet for each species.  Names had become longer as more species were discovered and needed to be differentiated from each other.  Linnaeus separated the name from the description, which he kept brief and succinct.
 
-<param ve-image fit
+<param ve-image fit ref="1"
        label="Illustration by Georg Ehret of Linnaeus's plant classification system"
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/08/ehret-sm.jpeg">
 
-<param ve-image fit
+<param ve-image fit ref="2"
        label="Linnaeus’s specimen cabinet at Hammarby, his farm outside Uppsala. Alongside the cubicles, the doors are marked with roman numerals for the twenty-four classes. The faded rectangles to the right are prints of Georg Ehret illustrations that Linnaeus had pasted to the walls of his bedroom so he could enjoy looking at them"
        license="Gina Douglas HonFLS"
 url="https://herbariumworld.files.wordpress.com/2022/08/linn-cabinet-sm.jpeg">
