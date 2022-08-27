@@ -225,17 +225,17 @@ url="https://herbariumworld.files.wordpress.com/2022/08/lewis-artemesia-longifol
 
 While economics drove much plant collecting, aesthetics also played a key role.  For many botanists, it was thrilling to discover and describe new species, especially from parts of the world where the flora was so different.  Some were interested in cultivating new plants in their gardens and sharing them with other enthusiasts.  Eventually nurseries were founded to support this work and make it profitable with beauty and novelty as drivers.  In the 17th and 18th centuries primarily the upper classes had the means to create gardens with hothouses to nurture exotic species from the tropics and have reference libraries.  Mary Somerset, Duchess of Beaufort kept a herbarium not only for exotic species but for varieties of garden plants like anemones.  She and others experimented with growing delicate plants which they then passed on to botanists hadn’t cultivation skills.  Like Somerset, many gardeners documented their achievements with specimens.  In the 20th century, the landscape architect Beatrix Farrand created an herbarium of species grown in her Reef Point Garden; the labels recorded where each was planted, valuable information since the garden no longer exists.  Today, the British Royal Horticultural Society herbarium among others specializes in cultivated plants including new cultivars grown in their yearly trials.
 
-<param ve-image fit
+<param ve-image fit ref="1"
        label="Anemone specimens from Mary Somerset's herbarium, each enclosed in its own sheet of paper"
-       description="In the Sloane Herbarium, Natural History Museum, London"
+       description="Sloane Herbarium, Natural History Museum, London"
 url="https://herbariumworld.files.wordpress.com/2022/08/somerset_herbarium-sm.jpeg">
 
-<param ve-image fit
-       label="Specimen of cross-leafed heath (<em>Erica tetralix</em>)"
-       description="Collected at Beatrix Farrand’s Reef Point Gardens; University of California, Berkeley Herbarium"
+<param ve-image fit ref="2"
+       label="Specimen of cross-leafed heath (<em>Erica tetralix</em>) collected at Beatrix Farrand’s Reef Point Gardens"
+       description="University of California, Berkeley Herbarium"
 url="https://herbariumworld.files.wordpress.com/2022/08/farrand-erica.jpg">
 
-<param ve-image fit
+<param ve-image fit ref="3"
        label="Specimen of monkshood (<em>Aconitum carmichaelii</em> Debeaux [Wilsonii Group]) ‘Barker’s Variety,’ includes individual flowers and flower parts"
        description="The 1851 Royal Commission Herbarium, RHS Garden Wisley"
 url="https://herbariumworld.files.wordpress.com/2022/08/rhs-sm.jpeg">
@@ -243,34 +243,33 @@ url="https://herbariumworld.files.wordpress.com/2022/08/rhs-sm.jpeg">
 
 In the late 18th and 19th centuries plant collecting increased significantly as not only explorers and the upper classes participated but also laborers, women, and children.  The tools for gathering plants—a tin container called a vasculum, a plant press, a loupe or hand lens—became status symbols for collectors.  Herbaria were popular for learning about plants and as symbols of that learning, which was seen as morally good, a way to appreciate God’s creations.  The poet Emily Dickinson made one while at school writing to a friend:  “Have you made an herbarium yet? . . . ’most all the girls are making one.”  Scottish baker and naturalist, Robert Dick attempted to collect all the species in the area, if not in Britain.  The British writer Margaret Gatty was middle-aged when she became enamored of seaweed, collected them whenever she could, and corresponded with experts in the field to learn more.  They in turn relied on her for specimens of species new to them or even new to science.  She published scientific journal articles and a popular guide to seaweeds; other women also bridged the gap between amateur and professional in botany. 
 
-<param ve-image fit
-       label="Vasculum, plant press, and loupe or hand lens"
-       description="Three plant collecting tools"
+<param ve-image fit ref="1"
+       label="Three plant collecting tools: vasculum, plant press, and loupe or hand lens"
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/08/tools.jpg">
 
-<param ve-image fit
+<param ve-image fit ref="2"
        label="Emily Dickinson specimens labeled <em>Oxalis violacea, Ipomoea quamoclit, Clematis viorna,</em> and <em>Orobanche americana</em>"
        description="Dickinson herbarium. Houghton Library, Harvard University"
 url="https://herbariumworld.files.wordpress.com/2022/08/dickinson.jpg">
 
-<param ve-image fit
-       label="Specimen of <em>Delesseria sanguinea</em>, collected by Margaret Gatty in Hastings, England" 
+<param ve-image fit ref="3"
+       label="Specimen of <em>Delesseria sanguinea</em> collected by Margaret Gatty in Hastings, England" 
        description="Museums Sheffield"
 url="https://herbariumworld.files.wordpress.com/2022/08/gatty-seaweed.png">
 
 
 The 19th century saw the development of the type specimen.  This led to naming as a type a single specimen among those studied by the author of the species’ first published description.  “Type” here does not mean typical.  It may not be most representative of the species, but it’s the one the author chose.  For species named earlier, such as those of Linnaeus, botanists have attempted to identify specimens the author had seen and designate it as a lectotype.  In some cases, this may not be a specimen but an illustration, as some species named by Linnaeus from images in Mark Catesby's <em>The Natural History of Carolina, Florida, and the Bahama Islands</em>, suggesting art’s significance in botanical inquiry.  Often type specimens are kept in red folders making them easier to find.  Sometimes they are stored together, so in an emergency they can be easily moved to safety.  This is how the botanist Alice Eastwood saved the types at the California Academy of Sciences after the 1906 San Francisco earthquake, before the city were engulfed by fire.  
 
-<param ve-image fit
-       label="Yellow pitcherplant (<em>Sarracenia flava</em>) by Mark Catesby"
-       description="In <em>The Natural History of Carolina, Florida and the Bahama Islands</em>, Vol 2, Plate 69. Smithsonian Libraries"
+<param ve-image fit ref="1"
+       label="Yellow pitcherplant (<em>Sarracenia flava</em>) by Mark Catesby in <em>The Natural History of Carolina, Florida and the Bahama Islands</em>, Vol 2, Plate 69"
+       description="Smithsonian Libraries"
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/08/catesby_sarracenia.jpeg">
 
-<param ve-image fit
-       label="<em>Allium hickmanii</em>, type specimen"
-       description="Collected by Alice Eastwood in Monterey, CA, April 15, 1900. California Academy of Sciences"
+<param ve-image fit ref="2"
+       label="<em>Allium hickmanii</em>, type specimen collected by Alice Eastwood in Monterey, CA, April 15, 1900"
+       description="California Academy of Sciences"
        license="CC BY-NC"
 url="https://herbariumworld.files.wordpress.com/2022/08/eastwood.jpg">
 
