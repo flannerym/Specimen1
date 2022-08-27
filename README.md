@@ -218,7 +218,7 @@ Specimens can also support research on what happens to specimens after they are 
 url="https://herbariumworld.files.wordpress.com/2022/08/lewis-and-clark-berberis-sm.jpg">
 
 <param ve-image fit
-       label="Specimen of long-leafed sage (<em>Artemisia longifolia</em>) with original Lewis label of blue blotter paper: 'No. 53, October 3rd flavor like the chamomile radix perennial growth of the high bluffs'” 
+       label="Specimen of long-leafed sage (<em>Artemisia longifolia</em>) with original Lewis label of blue blotter paper: 'No. 53, October 3rd flavor like the chamomile radix perennial growth of the high bluffs'”
        description="Deposited by the American Philosophical Society at the Academy of Natural Sciences of Drexel University (PH Herbarium PH00043182677)"
 url="https://herbariumworld.files.wordpress.com/2022/08/lewis-artemesia-longifolia.jpg">
 
