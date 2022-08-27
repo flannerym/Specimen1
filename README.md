@@ -101,19 +101,18 @@ Drawings were also helpful in documenting a plant’s appearance at various life
      
 Ghini taught plant preservation to his students and fellow botanists who quickly saw its value.  He often augmented the specimens with drawings, written descriptions, and even prints taken from a published herbal on medicinal plants.  These images were in a style based on careful observation that developed in Northern Europe and then moved into the work of botanists like Ghini.  The visual was especially important since texts were reliant on ancient writers and a vocabulary for describing plant traits had yet to be developed.  Even the concepts of genus and species, which seem quite obvious today, took about two centuries to mature.  
 
-
 <param ve-image fit ref="1"
-       label="Wood engraving of septfoil from <em>De Historia Stirpium</em> (1542) by Leonhard Fuchs, here an ideal plant is shown"
-       description="Smithsonian Institution"
-       license="public domain"
-       url="https://herbariumworld.files.wordpress.com/2022/08/fuchs_tormentilla.jpeg">
-<param ve-image fit ref="2"
        label="Wood engraving of septfoil (<em>Tormentilla</em>) from <em>Herbarum Vivae Eicones</em> (1530) by Otto Brunfels, with the lower stems drooping indicating that a particular specimen was depicted"
        description="Missouri Botanical Garden"
        license="public domain"
        url="https://herbariumworld.files.wordpress.com/2022/08/brunfels_tormentilla.jpeg">
        
-       
+<param ve-image fit ref="2"
+       label="Wood engraving of septfoil from <em>De Historia Stirpium</em> (1542) by Leonhard Fuchs, here an ideal plant is shown"
+       description="Smithsonian Institution"
+       license="public domain"
+       url="https://herbariumworld.files.wordpress.com/2022/08/fuchs_tormentilla.jpeg">
+                                                     
 The 16th century was a time of experimentation in how best to communicate information about plants.  Ghini assisted his colleague Pietro Andrea Mattioli in interpreting an ancient text by sending him notes, specimens and drawings.  Mattioli used all these along with live plants, but disposed of the specimens after studying them.  He didn’t consider them worth saving, though he later regretted this.  The Swiss botanist and physician Felix Platter pasted one or more images on the left-hand page and a specimen of the same plant on the right, so he could easily compare them.  Others affixed them to the same sheet.  Some painted in missing parts of a plant.  Still others applied oily ink to a specimen and made a nature print of it.  While drawings are still added to herbarium sheets, the more creative approaches have not survived.  Somewhat later, embellishments were added to sheets in some herbaria to signify the status of the owner.  Printed vases and elaborate labels adorned the specimens of wealthy in 18th-century Dutch collectors.
        
 <param ve-image fit compare="true" ref="1"
