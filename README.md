@@ -316,27 +316,27 @@ url="https://herbariumworld.files.wordpress.com/2022/08/nelson_pityopsis.jpg">
 
 Those interested in the plant humanities also see potential for the Extended Specimen.  There could be links to archival material such as collecting journals or letters, also to plant drawings and illustrations made by botanists either in the field to document what they are seeing or for their publications.  Biologists are the most visually oriented scientists, not surprising considering living world’s visual richness.  Over the centuries many worked closely with artists to ensure the illustrations in their publications were as accurate as possible.  These were often close collaborations over many years and involved “four-eyed sight,” two sets of eyes and two minds creating a vision of a species.  One such partnership was between the orchid botanist Oakes Ames and his wife Blanche who did his illustrations.  Unlike many similar situations, Blanche, an ardent feminist, made sure her work, even sketches on herbarium sheets, were signed.  This 20th century example, echoes earlier duos, such as Georg Ehret and Carl Linnaeus producing a chart of the 24 classes of plants, and Ferdinand Bauer working with John Sibthorp on the flora of Greece and Turkey.  Some collaborations were cross-cultural.  The Spanish botanist José Celestino Mutis worked with indigenous artists in Colombia to document the plants collected on the expedition he headed.  These works are botanically accurate while being stylistically distinctive.  The same is true of Indian artists employed by British botanists.  In both cases, most artists’ names went unrecorded, though searching archives of letters and journals has brought some individuals to light.
 
-<param ve-image fit
-       label="Specimen of the orchid <em>Dendrochilum aurantiacum</em> with watercolor by Blanche Ames done from the living plant when it was given to Oakes Ames by Rudolf Schlechter in Berlin"
+<param ve-image fit ref="1"
+       label="Specimen of the orchid <em>Dendrochilum aurantiacum</em> with watercolor by Blanche Ames done from the living plant when it was given to Oakes Ames by Rudolf Schlechter in Berlin in 1922"
        description="Orchid Herbarium of Oakes Ames, Harvard University"
 url="https://herbariumworld.files.wordpress.com/2022/08/ames-dendrochilum-sm.jpeg">
 
-<param ve-image fit
+<param ve-image fit ref="2"
        label="<em>Turnera</em> engraving, table 10 in Carl Linnaeus's <em>Hortus Cliffortianus</em> created from a watercolor by Georg Ehret"
        description="Real Jardín Botánico-CSIC"
 url="https://herbariumworld.files.wordpress.com/2022/08/ehret_turnera-sm.jpeg">
 
-<param ve-image fit
+<param ve-image fit ref="3"
        label="Pale garlic (<em>Allium paniculatum</em>) by Ferdinand Bauer for John Sibthorp’s <em>Flora Graeca</em> Vol. 4, Plate 318"
        description="Linda Hall Library"
 url="https://herbariumworld.files.wordpress.com/2022/08/sibthorp_allium-sm.jpeg">
 
-<param ve-image fit
+<param ve-image fit ref="4"
        label="Watercolor of serápias (<em>Ellianthus magnicallosus</em>) from the Spanish Royal Botanical Expedition of the New Kingdom of Granada (1783–1816) directed by José Celestino Mutis"
        description="Real Jardín Botánico-CSIC"
 url="https://herbariumworld.files.wordpress.com/2022/08/mutis_ellianthus-sm.jpeg">
 
-<param ve-image fit
+<param ve-image fit ref="5"
        label="Illustration by an unnamed artist of royal poinciana (<em>Delonix regia</em>) among a collection of watercolors created at the Garden of Dapuri in Mumbai, India in the mid-nineteenth century. This tree is native to Madagascar, but by this time had been planted in many tropical areas as a street tree"
        description="Archives of the Royal Botanic Garden, Edinburgh"
 url="https://herbariumworld.files.wordpress.com/2022/08/delonix-sm.jpeg">
