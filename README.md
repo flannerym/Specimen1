@@ -76,7 +76,6 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q936580"> <!-- John Sibthorp -->
 <param ve-entity eid="Q731937" aliases="José Celestino Mutis"> <!-- Jose Celestino Mutis -->
 <param ve-entity eid="Q170344"> <!-- Anselm Kiefer -->
-<param ve-entity eid="Q80005" aliases="ferns"> <!-- fern -->
 <param ve-entity eid="Q13574446" aliases="Erwin Driessens and Maria Verstappen"> <!--Driessens and Verstappen -->
 
 
