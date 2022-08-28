@@ -274,11 +274,10 @@ url="https://herbariumworld.files.wordpress.com/2022/08/catesby_sarracenia.jpeg"
 url="https://herbariumworld.files.wordpress.com/2022/08/eastwood.jpg">
 
 
-Botanists studying a genus or family often seek out type specimens as a way to insure that they have a good sense of the differences among the species in a genus, particularly if they have found what they think is a new species.  In the past, type specimens were sometimes difficult to locate and could require borrowing them or travel perhaps to a different continent.  Additionally the majority of types were in collections of former colonial powers.  Yet there is much greater biodiversity in tropical areas, often former colonies working to build botanical expertise with few resources.  To ease these disparities, digitizing label data and imaging specimens began on a large scale in the 2000s.  Millions of sheets are now freely available online, though the digital infrastructure is insufficient in many countries.
+Botanists studying a genus or family often seek out type specimens as a way to insure that they have a good sense of the differences among the species in a genus, particularly if they have found what they think is a new species.  In the past, type specimens were sometimes difficult to locate and could require borrowing them or travel perhaps to a different continent.  Additionally the majority of types were in collections of former colonial powers in the Northern Hemisphere.  Yet there is much greater biodiversity in tropical areas, often Southern Hemisphere former colonies working to build botanical expertise with few resources.  To ease these disparities, digitizing label data and imaging specimens began on a large scale in the 2000s.  Millions of sheets are now freely available online, though the digital infrastructure is insufficient in many countries.
 
 <param ve-image fit
-       label="Map with global distribution of herbaria (for visual clarity displaying only herbaria of > 100 000 specimens), names of the largest 10 herbaria, and number of herbaria and herbarium specimens curated per continent"
-       description="From "Using Herbaria to Study Global Environmental Change" (Lang et al, 2018)."
+       label="Map with global distribution of herbaria (for visual clarity displaying only herbaria of > 100 000 specimens), names of the largest 10 herbaria, and number of herbaria and herbarium specimens curated per continent.  From "Using Herbaria to Study Global Environmental Change" (Lang et al, 2018)."
        license="CC BY 4.0"
 url="https://herbariumworld.files.wordpress.com/2022/08/herbarium-map.jpeg">
 
