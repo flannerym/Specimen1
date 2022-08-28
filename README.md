@@ -300,7 +300,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/humboldt-sm.jpeg">
 url="https://herbariumworld.files.wordpress.com/2022/08/franklinia-specimen-sm.jpeg">
 
 <param ve-image fit ref="4"
-       label="Watercolor <em>Franklinia alatamaha</em> of by William Bartram 1782"
+       label="Watercolor of <em>Franklinia alatamaha</em> by William Bartram 1782"
        description="Natural History Museum, London"
 url="https://herbariumworld.files.wordpress.com/2022/08/franklinia-illustration.jpg">
 
