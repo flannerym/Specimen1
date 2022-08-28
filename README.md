@@ -88,6 +88,7 @@ The Italian physician and botanist Luca Ghini began preserving plants in the 153
        description="University of Bologna" 
        license="public domain"
 url="http://137.204.21.141/ALDROVANDI/image/vol2fg338.JPG">   
+{#paragraph1}
                                                                                                   
 Drawings were also helpful in documenting a plant’s appearance at various life stages—budding, flowering, fruiting—because they often passed quickly.  This is where pressed plants became important.  A cutting was carefully spread out on absorbent paper, covered by another sheet, and pressed between boards, so the plant didn’t curl up as it dried.  Once dried, the plant would last indefinitely if kept from the three most common threats:  water, fire, and insects.  A label with at least the plant’s name insured that the specimen was tied to textual information.  At the time, a collection of pressed plants was called a hortus siccus, dry garden, or hortus hyemalis, winter garden for when live plant material was scarce.  The word herbarium was used more broadly for collections of plant images.
 
@@ -96,7 +97,7 @@ Drawings were also helpful in documenting a plant’s appearance at various life
        description="Oak Spring Garden Foundation"
        license="photo of author"
        url="https://herbariumworld.files.wordpress.com/2022/08/bound_harder.jpeg">
-       
+{#paragraph2}     
      
 Ghini taught plant preservation to his students and fellow botanists who quickly saw its value.  He often augmented the specimens with drawings, written descriptions, and even prints taken from a published herbal on medicinal plants.  These images were in a style based on careful observation that developed in Northern Europe and then moved into the work of botanists like Ghini.  The visual was especially important since texts were reliant on ancient writers and a vocabulary for describing plant traits had yet to be developed.  Even the concepts of genus and species, which seem quite obvious today, took about two centuries to mature.  
 
@@ -111,6 +112,7 @@ Ghini taught plant preservation to his students and fellow botanists who quickly
        description="Smithsonian Institution"
        license="public domain"
        url="https://herbariumworld.files.wordpress.com/2022/08/fuchs_tormentilla.jpeg">
+{#paragraph3}
                                                      
 The 16th century was a time of experimentation in how best to communicate information about plants.  Ghini assisted his colleague Pietro Andrea Mattioli in interpreting an <span data-click-image-zoomto="1">ancient text</span> by sending him notes, specimens and drawings.  Mattioli used all these along with live plants, but disposed of the specimens after studying them.  He didn’t consider them worth saving, though he later regretted this.  The Swiss botanist and physician Felix Platter pasted one or more images on the <span data-click-image-zoomto="2">left-hand page</span> and a specimen of the same plant on the <span data-click-image-zoomto="3">right</span>, so he could easily compare them.  Others affixed them to the same sheet.  Some <span data-click-image-zoomto="4">painted in missing parts</span> of a plant or <span data-click-image-zoomto="5">added plant parts to an image</span>.  Still others applied oily ink to a specimen and made a <span data-click-image-zoomto="6">nature print</span> of it.  While drawings are still added to herbarium sheets, the more creative approaches have not survived.  Somewhat later, embellishments were added to sheets in some herbaria to signify the status of the owner.  <span data-click-image-zoomto="7">Printed vases and elaborate labels</span> adorned the specimens of wealthy in 18th-century Dutch collectors.
 
@@ -154,7 +156,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/kentmann_vitis.jpg">
        description="Natural History Museum, London"
        license="CCO-01"
 url="https://herbariumworld.files.wordpress.com/2022/08/clifford.jpg">
-
+{#paragraph4}
 
 # Carl Linnaeus
 
@@ -169,7 +171,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/ehret-sm.jpeg">
        label="Linnaeus’s specimen cabinet at Hammarby, his farm outside Uppsala. Alongside the cubicles, the doors are marked with roman numerals for the twenty-four classes. The faded rectangles to the right are prints of Georg Ehret illustrations that Linnaeus had pasted to the walls of his bedroom so he could enjoy looking at them"
        license="Gina Douglas HonFLS"
 url="https://herbariumworld.files.wordpress.com/2022/08/linn-cabinet-sm.jpeg">
-
+{#paragraph5}
 
 In 1753, Linnaeus published <em>Species Plantarum</em>, his compilation of over 6,000 plant species, while 16th-century herbals listed under a thousand.  Much of the increase came from areas investigated by European powers using their sea power to seek wealth in other parts of the world.  Their search was not only for gold and minerals, but plants with possible economic importance as medicine, timber, fiber, food, or garden plants.  The Spanish king sent his physician Francisco Hernàndez to Mexico 1570.  Since the plants were so unfamiliar, Hernandez sought assistance from indigenous healers, noted characteristics, uses, and indigenous names, while collecting specimens and drawings.  Like many early collections, Hernàndez’s herbarium did not survive; it was destroyed by fire in the king’s palace.  However, at least some of his research and illustrations were published, contributing to increasing knowledge of exotic plants.
 
@@ -178,7 +180,7 @@ In 1753, Linnaeus published <em>Species Plantarum</em>, his compilation of over 
        description="Getty Research Institute"
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/08/hernacc81ndez_hoitziloxitl.jpeg">
-
+{#paragraph6}
 
 # Plant Collecting
 
@@ -189,7 +191,7 @@ With time, herbaria became crucial to plant documentation.  Travelers were tutor
        description="Naturalis Biodiversity Center, Leiden"
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/08/petrollin_tomato-sm.jpeg">
-
+{#paragraph7}
 
 Herbaria with specimens collected before Linnaeus’s work were often neglected in the past, because the plants weren’t named according to his system.  However, these materials are being reexamined with interesting results.  In 1687 Hendrik Meyer, a Dutch collector working in Surinam, gathered specimens growing there including two African food plants:  okra and sesame, giving evidence that African enslaved persons brought to work on plantations had carried seeds with them, one of many examples of the early movement of plants with links to the slave trade. This suggests how herbaria can contribute crucial evidence on cultural and political history and reveal what had long remained hidden.
 
@@ -198,7 +200,7 @@ Herbaria with specimens collected before Linnaeus’s work were often neglected 
        description="Naturalis Biodiversity Center, Leiden"
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/08/meyer_bowangala.jpg">
-
+{#paragraph8}
 
 Herbaria today are examined for such hidden stories of the role of enslaved and indigenous people in the history of plant collecting.  The biota in many areas was so different from the European that collectors needed guidance in finding useful plants.  Local knowledge was essential as was the labor needed to mounting expeditions into often difficult terrain.  Yet the contributions of those most helpful often went unrecorded.  Historians and botanists are now combing records, including specimens, seeking information that collectors recorded but reach publication.  When plants were sent back to Europe, the indigenous names, if recorded, were frequently removed as being of little value.  However, combing letters, fieldnotes, and journals sometimes reveals a great deal.
 
@@ -207,7 +209,7 @@ Herbaria today are examined for such hidden stories of the role of enslaved and 
        description="Published in <em>Philosophical Transactions of the Royal Society</em> 19, no. 232 (September 1697):677-86"
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/08/petiver.jpeg">
-
+{#paragraph9}
 
 Specimens can also support research on what happens to specimens after they are collected.  When Meriwether Lewis and William Clark were appointed by President Thomas Jefferson to lead an expedition into the newly acquired Louisiana Purchase territory, Lewis was tutored in plant identification and collection by Benjamin Barton, a leading Philadelphia botanist.  Some of Lewis’s specimens were lost in transit, a common problem for expeditions, but many reached Barton who then asked the German botanist Frederick Pursh to study them.  Pursh became dissatisfied with his compensation and left with some of the specimens, eventually going to England, where he published descriptions of many Lewis plants.  He then sold the specimens to a British botanist whose collection was auctioned after his death, with the Lewis material going to an American botanist who donated them to the Academy of Natural Sciences in Philadelphia.  The remainder of the collection was left unstudied in Philadelphia’s American Philosophical Society until the late 19th century when all the sheets were reunited at ANS.  Some of this history can be read on the sheets.  A specimen of the <span data-click-image-zoomto="1">Oregon grape</span> is one that Pursh took to England, and has the stamp of the <span data-click-image-zoomto="867,455,619,481">Lambert Herbarium</span>.  The <span data-click-image-zoomto="2">long-leafed sage specimen</span> remained in Philadelphia and has the <span data-click-image-zoomto="1,705,734,570">original Lewis label on blue blotting paper</span> he used to press specimens.  Pursh had rewritten many of Lewis’s labels and then disposed of them, a rather common practice at the time.  Now every bit of information on a specimen is retained in case it might be valuable in the future.  The more recent slips tell  botanists who have examined the specimens and confirmed the identification.  Each specimen provides a microhistory of who has studied it over more than two centuries.
 
@@ -220,7 +222,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/lewis-and-clark-berberis
        label="Specimen of long-leafed sage (<em>Artemisia longifolia</em>) with original Lewis label of blue blotter paper: 'No. 53, October 3rd flavor like the chamomile radix perennial growth of the high bluffs'"
        description="Deposited by the American Philosophical Society at the Academy of Natural Sciences of Drexel University (PH Herbarium PH00043182677)"
 url="https://herbariumworld.files.wordpress.com/2022/08/lewis-artemesia-longifolia.jpg">
-
+{#paragraph10}
 
 While economics drove much plant collecting, aesthetics also played a key role.  For many botanists, it was thrilling to discover and describe new species, especially from parts of the world where the flora was so different.  Some were interested in cultivating new plants in their gardens and sharing them with other enthusiasts.  Eventually nurseries were founded to support this work and make it profitable with beauty and novelty as drivers.  In the 17th and 18th centuries primarily the upper classes had the means to create gardens with hothouses to nurture exotic species from the tropics and have reference libraries.  Mary Somerset, Duchess of Beaufort kept an herbarium not only for exotic species but for varieties of garden plants like <span data-click-image-zoomto="1">anemones</span>.  She and others experimented with growing delicate plants which they then passed on to botanists hadn’t cultivation skills.  Like Somerset, many gardeners documented their achievements with specimens.  In the 20th century, the landscape architect Beatrix Farrand created an herbarium of species grown in her <span data-click-image-zoomto="2">Reef Point Garden</span>; the labels recorded where each was planted, valuable information since the garden no longer exists.  Today, the British Royal Horticultural Society herbarium among others specializes in <span data-click-image-zoomto="3">cultivated plants</span> including new cultivars grown in their yearly trials.
 
@@ -238,7 +240,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/farrand-erica.jpg">
        label="Specimen of monkshood (<em>Aconitum carmichaelii</em> Debeaux [Wilsonii Group]) ‘Barker’s Variety,’ includes individual flowers and flower parts"
        description="The 1851 Royal Commission Herbarium, RHS Garden Wisley"
 url="https://herbariumworld.files.wordpress.com/2022/08/rhs-sm.jpeg">
-
+{#paragraph11}
 
 In the late 18th and 19th centuries plant collecting increased significantly as not only explorers and the upper classes participated but also laborers, women, and children.  The <span data-click-image-zoomto="1">tools</span> for gathering plants—a tin container called a vasculum, a plant press, a loupe or hand lens—became status symbols for collectors.  Herbaria were popular for learning about plants and as symbols of that learning, which was seen as morally good, a way to appreciate God’s creations.  The poet Emily Dickinson made one while at school writing to a friend:  “Have you made an herbarium yet? . . . ’most all the girls are <span data-click-image-zoomto="2">making one</span>.”  Scottish baker and naturalist, Robert Dick attempted to collect all the species in the area, if not in Britain.  The British writer Margaret Gatty was middle-aged when she became enamored of seaweed, collected them whenever she could, and corresponded with experts in the field to learn more.  They in turn relied on her for <span data-click-image-zoomto="3">specimens</span> of species new to them or even new to science.  She published scientific journal articles and a popular guide to seaweeds; other women also bridged the gap between amateur and professional in botany. 
 
@@ -256,7 +258,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/dickinson.jpg">
        label="Specimen of <em>Delesseria sanguinea</em> collected by Margaret Gatty in Hastings, England" 
        description="Museums Sheffield"
 url="https://herbariumworld.files.wordpress.com/2022/08/gatty-seaweed.png">
-
+{#paragraph12}
 
 The 19th century saw the development of the type specimen.  This led to naming as a type a single specimen among those studied by the author of the species’ first published description.  “Type” here does not mean typical.  It may not be most representative of the species, but it’s the one the author chose.  For species named earlier, such as those of Linnaeus, botanists have attempted to identify specimens the author had seen and designate it as a lectotype.  In some cases, this may not be a specimen but an illustration, as some species named by Linnaeus from <span data-click-image-zoomto="1">images</span> in Mark Catesby's <em>The Natural History of Carolina, Florida, and the Bahama Islands</em>, suggesting art’s significance in botanical inquiry.  Often type specimens are kept in red folders making them easier to find.  Sometimes they are stored together, so in an emergency they can be easily moved to safety.  This is how the botanist Alice Eastwood saved the <span data-click-image-zoomto="2">types</span> at the California Academy of Sciences after the 1906 San Francisco earthquake, before the city were engulfed by fire.  
 
@@ -271,7 +273,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/catesby_sarracenia.jpeg"
        description="California Academy of Sciences"
        license="CC BY-NC"
 url="https://herbariumworld.files.wordpress.com/2022/08/eastwood.jpg">
-
+{#paragraph13}
 
 Botanists studying a genus or family often seek out type specimens as a way to insure that they have a good sense of the differences among the species in a genus, particularly if they have found what they think is a new species.  In the past, type specimens were sometimes difficult to locate and could require borrowing them or travel perhaps to a different continent.  Additionally the majority of types were in collections of former colonial powers in the Northern Hemisphere.  Yet there is much greater biodiversity in tropical areas, often Southern Hemisphere former colonies working to build botanical expertise with few resources.  To ease these disparities, digitizing label data and imaging specimens began on a large scale in the 2000s.  Millions of sheets are now freely available online, though the digital infrastructure is insufficient in many countries.
 
@@ -279,7 +281,7 @@ Botanists studying a genus or family often seek out type specimens as a way to i
        label="Map with global distribution of herbaria (for visual clarity displaying only herbaria of > 100 000 specimens), names of the largest 10 herbaria, and number of herbaria and herbarium specimens curated per continent.  From 'Using Herbaria to Study Global Environmental Change' (Lang et al, 2018)."
        license="CC BY 4.0"
 url="https://herbariumworld.files.wordpress.com/2022/08/herbarium-map.jpeg">
-
+{#paragraph14}
 
 Specimen data is crucial as biodiversity is threatened by climate change and habitat destruction.  The best estimate of known plant species is about 450,000.  Almost 2000 new species were described in 2019 alone, including many collected much earlier.  One study found that only about 16% of new species are described within 5 years of collection and 25% waited at least 50 years.  A <span data-click-image-zoomto="1">new species</span> in the potato family was recently discovered in Peru, and the botanists describing it found a <span data-click-image-zoomto="2">specimen</span> collected in 1801 in the French National Museum of Natural History herbarium.  In other cases herbaria house specimens of species now extinct in the wild.  Philadelphia nurseryman John Bartram and his son William discovered a flowering tree (<em>Franklinia Alatamaha</em>) along the Altamaha River in Georgia in 1765.  William later returned and collected <span data-click-image-zoomto="3">specimens</span> and seeds.  He successfully grew the <span data-click-image-zoomto="4">tree</span>, which is still cultivated in gardens, but after the early 1800s it was extinct in the wild, the fate of a number of plants, some known only through specimens.
 
@@ -302,7 +304,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/franklinia-specimen-sm.j
        label="Watercolor of <em>Franklinia alatamaha</em> by William Bartram 1782"
        description="Natural History Museum, London"
 url="https://herbariumworld.files.wordpress.com/2022/08/franklinia-illustration.jpg">
-
+{#paragraph15}
 
 Continued collection is important for many reasons and scientists are using specimens for a greater variety of research questions.  Digitization not only makes collections more accessible; the data are searchable so they can be used, for example, to track flowering times.  If possible, plants are collected when they are in flower or fruit since these structures are often definitive in identification.  With large numbers of specimens online and labels more <span data-click-image-zoomto="312,1566,1556,1183">data-rich</span>, researchers can search for changes in flowering dates over decades if not centuries, and some changes are attributed to global warming.  Geographic coordinates when recorded can provide a picture of species range and suggest where to seek new populations and future range changes.  These studies wouldn’t be feasible without digitization.  Physical specimens continue to yield information, from presence of substances with medicinal effects, to DNA sequencing clarifying genetic relationships among species, to chemical changes indicating responses to herbivore damage.  Researchers are also developing tools making new types of inquiry possible.  One vision is the Digital Extended Specimen, a single website linking specimens to images, genetic sequences, evolutionary trees, ecological data, and field notes.
 
@@ -311,7 +313,7 @@ Continued collection is important for many reasons and scientists are using spec
        description="A. C. Moore Herbarium, University of South Carolina, Columbia"
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/08/nelson_pityopsis.jpg">
-
+{#paragraph16}
 
 Those interested in the plant humanities also see potential for the Extended Specimen.  There could be links to archival material such as collecting journals or letters, also to plant drawings and illustrations made by botanists either in the field to document what they are seeing or for their publications.  Biologists are the most visually oriented scientists, not surprising considering living world’s visual richness.  Over the centuries many worked closely with artists to ensure the illustrations in their publications were as accurate as possible.  These were often close collaborations over many years and involved “four-eyed sight,” two sets of eyes and two minds creating a vision of a species.  One such partnership was between the orchid botanist Oakes Ames and his wife Blanche who did his <span data-click-image-zoomto="1">illustrations</span>.  Unlike many similar situations, Blanche, an ardent feminist, made sure her work, even sketches on herbarium sheets, were signed.  This 20th century example, echoes earlier duos, such as Georg Ehret producing illustrations for one of Linnaeus's <span data-click-image-zoomto="2">publications</span>, and Ferdinand Bauer working with John Sibthorp on the flora of <span data-click-image-zoomto="3">Greece and Turkey</span>.  Some collaborations were cross-cultural.  The Spanish botanist José Celestino Mutis worked with <span data-click-image-zoomto="4">indigenous artists</span> in Colombia to document the plants collected on the expedition he headed.  These works are botanically accurate while being stylistically distinctive.  The same is true of <span data-click-image-zoomto="5">Indian artists</span> employed by British botanists.  In both cases, most artists’ names went unrecorded, though searching archives of letters and journals has brought some individuals to light.
 
@@ -339,7 +341,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/mutis_ellianthus-sm.jpeg
        label="Illustration by an unnamed artist of royal poinciana (<em>Delonix regia</em>) among a collection of watercolors created at the Garden of Dapuri in Mumbai, India in the mid-nineteenth century. This tree is native to Madagascar, but by this time had been planted in many tropical areas as a street tree"
        description="Archives of the Royal Botanic Garden, Edinburgh"
 url="https://herbariumworld.files.wordpress.com/2022/08/delonix-sm.jpeg">
-
+{#paragraph17}
 
 While botanical illustrations continue to be published, new artforms using herbarium specimens are arising.  The idea of the herbarium is used by artists focusing on threats to biodiversity.  Anselm Kiefer creates powerful works that speak to this theme including <span data-click-image-zoomto="1"><em>Secret of the Ferns</em></span>, an installation with two bunkers at the center of a room lined on two sides by massive framed “specimens” of ferns, an ancient lineage that has survived to this day.  Erwin Driessens and Maria Verstappen address human manipulation of plants in their <span data-click-image-zoomto="2"><em>Herbarium Vivum</em></span>: large flat boxes with one side made of glass where plants have been trained to grow in two dimensions rather than three.  The prints in Melissa Oresky’s artist’s book <span data-click-image-zoomto="3"><em>Finder</em></span> are derived from herbarium specimens but are given very different organization in a process she calls “composting.”  The specimens are from an herbarium under threat of extinction because of shifting institutional priorities.   
 
@@ -356,3 +358,4 @@ url="https://herbariumworld.files.wordpress.com/2022/08/driessens_amstelpark-tab
 <param ve-image fit ref="3"
        label="Melissa Oresky’s artist’s book, <em>Finder</em> (2020), pages with the ferns <em>Polypodium virginianum</em> and <em>Polypodium vulgare</em>"
 url="https://herbariumworld.files.wordpress.com/2022/08/oresky_finder.jpeg">
+{#paragraph18}
