@@ -350,6 +350,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/kiefer_ferns.jpeg">
 
 <param ve-image fit ref="2"
        label="Erwin Driessens and Maria Verstappen’s <em>Herbarium Vivum I</em> (2013), a site-specific installation of ten boxes; pictured is one with a live tobacco plant"
+       description="Belmonte Arboretum in Wageningen, NLD"
 url="https://herbariumworld.files.wordpress.com/2022/08/driessens_amstelpark-tabacco.jpeg">
 
 <param ve-image fit ref="3"
