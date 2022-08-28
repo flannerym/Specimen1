@@ -282,24 +282,24 @@ Botanists studying a genus or family often seek out type specimens as a way to i
 url="https://herbariumworld.files.wordpress.com/2022/08/herbarium-map.jpeg">
 
 
-Specimen data is crucial as biodiversity is threatened by climate change and habitat destruction.  The best estimate of known plant species is about 450,000.  Almost 2000 new species were described in 2019 alone, including many collected much earlier.  One study found that only about 16% of new species are described within 5 years of collection and 25% waited at least 50 years.  A new species in the potato family was recently discovered in Peru, and the botanists describing found a specimen collected in 1801 in the French National Museum of Natural History herbarium.  In other cases herbaria house specimens of species now extinct in the wild.  Philadelphia nurseryman John Bartram and his son William discovered a flowering tree (<em>Franklinia Alatamaha</em>) along the Altamaha River in Georgia in 1765.  William later returned and collected specimens and seeds.  He successfully grew the tree, which is still cultivated in gardens, but after the early 1800s it was extinct in the wild, the fate of a number of plants, some known only through specimens.
+Specimen data is crucial as biodiversity is threatened by climate change and habitat destruction.  The best estimate of known plant species is about 450,000.  Almost 2000 new species were described in 2019 alone, including many collected much earlier.  One study found that only about 16% of new species are described within 5 years of collection and 25% waited at least 50 years.  A <span data-click-image-zoomto="1">new species</span> in the potato family was recently discovered in Peru, and the botanists describing it found a <span data-click-image-zoomto="2">specimen</span> collected in 1801 in the French National Museum of Natural History herbarium.  In other cases herbaria house specimens of species now extinct in the wild.  Philadelphia nurseryman John Bartram and his son William discovered a flowering tree (<em>Franklinia Alatamaha</em>) along the Altamaha River in Georgia in 1765.  William later returned and collected <span data-click-image-zoomto="3">specimens</span> and seeds.  He successfully grew the <span data-click-image-zoomto="4">tree</span>, which is still cultivated in gardens, but after the early 1800s it was extinct in the wild, the fate of a number of plants, some known only through specimens.
 
-<param ve-image fit compare="true"
-       label="Specimen of <em>Solanum humboldtianum</em> collected by Alexander von Humboldt and Aimé Bonpland near Bogotá, Colombia"
-       description="National Museum of Natural History, Paris"
-url="https://herbariumworld.files.wordpress.com/2022/08/humboldt-sm.jpeg">
-
-<param ve-image fit
+<param ve-image fit ref="1"
        label="Type specimen of <em>Solanum humboldtianum</em> collected by Juan Granados-Tochoy and W. Meier in 2005 on the western slopes of the Andean Cordillera Oriental in Colombia"
        description="Universidad Nacional de Colombia"
 url="https://herbariumworld.files.wordpress.com/2022/08/humboldt-new.jpeg">
 
-<param ve-image fit
+<param ve-image fit ref="2"
+       label="Specimen of <em>Solanum humboldtianum</em> collected by Alexander von Humboldt and Aimé Bonpland near Bogotá, Colombia"
+       description="National Museum of Natural History, Paris"
+url="https://herbariumworld.files.wordpress.com/2022/08/humboldt-sm.jpeg">
+
+<param ve-image fit ref="3"
        label="Specimen of <em>Franklinia alatamaha</em> collected by William Bartram in Georgia in June 1773"
        description="Natural History Museum, London"
 url="https://herbariumworld.files.wordpress.com/2022/08/franklinia-specimen-sm.jpeg">
 
-<param ve-image fit
+<param ve-image fit ref="4"
        label="Watercolor <em>Franklinia alatamaha</em> of by William Bartram 1782"
        description="Natural History Museum, London"
 url="https://herbariumworld.files.wordpress.com/2022/08/franklinia-illustration.jpg">
