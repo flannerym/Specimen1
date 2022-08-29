@@ -79,7 +79,7 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q13574446" aliases="Erwin Driessens and Maria Verstappen"> <!--Driessens and Verstappen -->
 
 
-# Early Herbaria
+## Early Herbaria
 
 The Italian physician and botanist Luca Ghini began preserving plants in the 1530s.  Since plants were sources of many medicines, physicians had to identify species with healing properties, and relied on ancient texts recently translated into Latin from Greek and Arabic.  However these authors had lived in the eastern Mediterranean, and it was becoming clear that some plants they described were different from those growing further west and north.  Ghini and others concluded that to learn about these species careful observation was key:  how they grew and developed and the effects of preparations made from various plant parts.  He studied garden plants and those he gathered on fieldtrips, which were becoming more common.  But observation wasn’t enough, the visual had to be turned into text.  Notes were important in passing the information on to others:  in letters, in teaching, and in publications.
 
@@ -158,7 +158,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/kentmann_vitis.jpg">
 url="https://herbariumworld.files.wordpress.com/2022/08/clifford.jpg">
 {#paragraph4}
 
-# Carl Linnaeus
+### Carl Linnaeus
 
 By then, the herbarium had become an important research tool.  The Swedish botanist Carl Linnaeus argued that there was no substitute for it as the crucial source of information about a plant.  He tackled the problem of organizing the increasing number of species being discovered all over the world by classifying them.  He focused on the flower as having the most distinctive information, explaining why specimens are usually collected with fruit, flowers, or both.  In many species, flowers have both the male stamens with anthers containing pollen and the female pistils with egg-containing ovules.  Linnaeus divided plants into 24 classes based on <span data-click-image-zoomto="1">number of stamens</span> with subclasses based on pistil number.  This was considered an artificial system since species with very different overall properties were classified together based solely on stamen number.  Linnaeus had a <span data-click-image-zoomto="2">cabinet</span> built with 24 shelves, one for each class and kept the sheets loose so he could reclassify a species if necessary.  Linnaeus also limited species names to two words, the genus which included all species with similar properties and an epithet for each species.  Names had become longer as more species were discovered and needed to be differentiated from each other.  Linnaeus separated the name from the description, which he kept brief and succinct.
 
