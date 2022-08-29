@@ -158,7 +158,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/kentmann_vitis.jpg">
 url="https://herbariumworld.files.wordpress.com/2022/08/clifford.jpg">
 {#paragraph4}
 
-### Carl Linnaeus
+## Carl Linnaeus
 
 By then, the herbarium had become an important research tool.  The Swedish botanist Carl Linnaeus argued that there was no substitute for it as the crucial source of information about a plant.  He tackled the problem of organizing the increasing number of species being discovered all over the world by classifying them.  He focused on the flower as having the most distinctive information, explaining why specimens are usually collected with fruit, flowers, or both.  In many species, flowers have both the male stamens with anthers containing pollen and the female pistils with egg-containing ovules.  Linnaeus divided plants into 24 classes based on <span data-click-image-zoomto="1">number of stamens</span> with subclasses based on pistil number.  This was considered an artificial system since species with very different overall properties were classified together based solely on stamen number.  Linnaeus had a <span data-click-image-zoomto="2">cabinet</span> built with 24 shelves, one for each class and kept the sheets loose so he could reclassify a species if necessary.  Linnaeus also limited species names to two words, the genus which included all species with similar properties and an epithet for each species.  Names had become longer as more species were discovered and needed to be differentiated from each other.  Linnaeus separated the name from the description, which he kept brief and succinct.
 
@@ -182,7 +182,7 @@ In 1753, Linnaeus published <em>Species Plantarum</em>, his compilation of over 
 url="https://herbariumworld.files.wordpress.com/2022/08/hernacc81ndez_hoitziloxitl.jpeg">
 {#paragraph6}
 
-# Plant Collecting
+## Plant Collecting
 
 With time, herbaria became crucial to plant documentation.  Travelers were tutored in how to collect and preserve specimens, not easy in tropical areas where it was difficult to dry them and protect them from destruction by insects and fungi.  Sometimes seedlings or cuttings might survive, but seeds fared better, though they could lose vitality or rot.  Seeds were highly desirable items of trade among European botanists because they held so much promise.  If they germinated and flowered, there would be more seeds to share, and plants could be made into specimens, then also shared.  This is why there are herbarium specimens of <span data-click-image-zoomto="235,72,1214,942">the tomato</span>, a Latin American species, from as early as the 1550s and illustrations date from about the same period.  Other species were more difficult to grow; exotics like pineapples and bananas were known primarily from illustrations and written descriptions.  
 
