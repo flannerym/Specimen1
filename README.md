@@ -244,6 +244,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/rhs-sm.jpeg">
 
 ##Popularity of Plants
 
+
 In the late 18th and 19th centuries plant collecting increased significantly as not only explorers and the upper classes participated but also laborers, women, and children.  The <span data-click-image-zoomto="1">tools</span> for gathering plants—a tin container called a vasculum, a plant press, a loupe or hand lens—became status symbols for collectors.  Herbaria were popular for learning about plants and as symbols of that learning, which was seen as morally good, a way to appreciate God’s creations.  The poet Emily Dickinson made one while at school writing to a friend:  “Have you made an herbarium yet? . . . ’most all the girls are <span data-click-image-zoomto="2">making one</span>.”  Scottish baker and naturalist, Robert Dick attempted to collect all the species in the area, if not in Britain.  The British writer Margaret Gatty was middle-aged when she became enamored of seaweed, collected them whenever she could, and corresponded with experts in the field to learn more.  They in turn relied on her for <span data-click-image-zoomto="3">specimens</span> of species new to them or even new to science.  She published scientific journal articles and a popular guide to seaweeds; other women also bridged the gap between amateur and professional in botany. 
 
 <param ve-image fit ref="1"
