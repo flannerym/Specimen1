@@ -81,7 +81,7 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 
 ## Early Herbaria
 
-The Italian physician and botanist Luca Ghini began preserving plants in the 1530s.  Since plants were sources of many medicines, physicians had to identify species with healing properties, and relied on ancient texts recently translated into Latin from Greek and Arabic.  However these authors had lived in the eastern Mediterranean, and it was becoming clear that some plants they described were different from those growing further west and north.  Ghini and others concluded that to learn about these species careful observation was key:  how they grew and developed and the effects of preparations made from various plant parts.  He studied garden plants and those he gathered on fieldtrips, which were becoming more common.  But observation wasn’t enough, the visual had to be turned into text.  Notes were important in passing the information on to others:  in letters, in teaching, and in publications.
+The Italian physician and botanist Luca Ghini began preserving plants in the 1530s.  Since plants were sources of many medicines, physicians had to identify species with healing properties, and relied on ancient texts recently translated into Latin from Greek and Arabic.  However these authors had lived in the eastern Mediterranean, and it was becoming clear that some plants they described were different from those growing further west and north.  Ghini and others concluded that to learn about these species careful observation was key:  how they grew and developed and the effects of preparations made from various plant parts.  He studied garden plants and those he gathered on fieldtrips, which were becoming more common.  But observation wasn’t enough, the visual had to be turned into text.  Notes were important in passing the information on to others:  in letters, in teaching, and in publications.[^1]
 
 <param ve-image fit="contain"
        label="Specimen of anemone now <em>Anenome hortensis</em> from the collection of Ulisse Aldrovandi, a colleague of Luca Ghini" 
@@ -359,3 +359,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/driessens_amstelpark-tab
        label="Melissa Oresky’s artist’s book, <em>Finder</em> (2020), pages with the ferns <em>Polypodium virginianum</em> and <em>Polypodium vulgare</em>"
 url="https://herbariumworld.files.wordpress.com/2022/08/oresky_finder.jpeg">
 {#paragraph18}
+
+##References
+
+[^1]: Findlen, Paula. 2017. “The Death of a Naturalist: Knowledge and Community in Late Renaissance Italy.” In Professors, Physicians and Practices in the History of Medicine, edited by Gideon Manning and Cynthia Klestinec, 127–67. New York: Springer.
