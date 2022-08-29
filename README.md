@@ -362,4 +362,4 @@ url="https://herbariumworld.files.wordpress.com/2022/08/oresky_finder.jpeg">
 
 ##References
 
-[^1]: Findlen, Paula. 2017. “The Death of a Naturalist: Knowledge and Community in Late Renaissance Italy.” In Professors, Physicians and Practices in the History of Medicine, edited by Gideon Manning and Cynthia Klestinec, 127–67. New York: Springer.
+[^1]: [Findlen, Paula. 2017. “The Death of a Naturalist: Knowledge and Community in Late Renaissance Italy.” In Professors, Physicians and Practices in the History of Medicine, edited by Gideon Manning and Cynthia Klestinec, 127–67. New York: Springer.]
