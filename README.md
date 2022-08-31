@@ -378,7 +378,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/oresky_finder.jpeg">
 [^5]: Benkert, Davina. 2016. “The ‘Hortus Siccus’ as a Focal Point: Knowledge, Environment, and Image in Felix Platter’s and Caspar Bauhin’s Herbaria.” In <em>Sites of Mediation</em>, edited by Susanna Burghartz, Lucas Burkart, and Christine Göttler, 211–39. Leiden, NLD: Brill. [https://doi.org/10.1163/9789004325760_010](https://doi.org/10.1163/9789004325760_010).
 
 
-[^6]: Thijsse, Gerard. 2018. “A Contribution to the History of the Herbaria of George Clifford III (1685–1760).” Archives of Natural History 45 (1): 134–48. [https://doi.org/10.3366/anh.2018.0489](https://doi.org/10.3366/anh.2018.0489).
+[^6]: Thijsse, Gerard. 2018. “A Contribution to the History of the Herbaria of George Clifford III (1685–1760).” Archives of Natural History 45 (1): 134–48. [https://doi.org/10.3366/anh.2018.0489](https://www.euppublishing.com/doi/10.3366/anh.2018.0489).
 
 
 
