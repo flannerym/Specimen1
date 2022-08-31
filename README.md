@@ -369,4 +369,8 @@ url="https://herbariumworld.files.wordpress.com/2022/08/oresky_finder.jpeg">
 
 [^1]: Findlen
 
+[^2]: Arber
+
+[^3]: Pächt
+
 
