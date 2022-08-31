@@ -81,7 +81,7 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 
 ## Early Herbaria
 
-The Italian physician and botanist Luca Ghini began preserving plants in the 1530s.  Since plants were sources of many medicines, physicians had to identify species with healing properties and relied on ancient texts recently translated into Latin from Greek and Arabic.  Since their authors had lived in the eastern Mediterranean and it was becoming clear that some plants they described were different from those growing further west and north.  Ghini and others concluded that to learn about these species careful observation was key:  how they grew and developed and the effects of preparations made from various plant parts.  He studied garden plants and those he gathered on fieldtrips, which were becoming more common.  But observation wasn’t enough, the visual had to be turned into text.  Notes were important in passing the information on to others:  in letters, in teaching, and in publications. [^1]
+The Italian physician and botanist Luca Ghini began preserving plants in the 1530s.  Since plants were sources of many medicines, physicians had to identify species with healing properties and relied on ancient texts recently translated into Latin from Greek and Arabic.  Since their authors had lived in the eastern Mediterranean and it was becoming clear that some plants they described were different from those growing further west and north.  Ghini and others concluded that to learn about these species careful observation was key:  how they grew and developed and the effects of preparations made from various plant parts.  He studied garden plants and those he gathered on fieldtrips, which were becoming more common.  But observation wasn’t enough, the visual had to be turned into text.  Notes were important in passing the information on to others:  in letters, in teaching, and in publications.[^1]
 
 <param ve-image fit="contain"
        label="Specimen of anemone now <em>Anenome hortensis</em> from the collection of Ulisse Aldrovandi, a colleague of Luca Ghini" 
@@ -90,7 +90,7 @@ The Italian physician and botanist Luca Ghini began preserving plants in the 153
 url="http://137.204.21.141/ALDROVANDI/image/vol2fg338.JPG">   
 {#paragraph1}
                                                                                                   
-Drawings were also helpful in documenting a plant’s appearance at various life stages—budding, flowering, fruiting—because they often passed quickly.  This is where pressed plants also became important.  A cutting was carefully spread out on absorbent paper, covered by another sheet, and pressed between boards, so the plant didn’t curl up as it dried.  A specimen would then last indefinitely if kept from the three most common threats:  water, fire, and insects.  A label with at least the plant’s name insured that the specimen was tied to textual information.  At the time, a collection of pressed plants was called a <em>hortus siccus</em>, dry garden, or <em>hortus hyemalis</em>, winter garden for when live plant material was scarce.  The word herbarium was used more broadly for collections of plant images. [^2]
+Drawings were also helpful in documenting a plant’s appearance at various life stages—budding, flowering, fruiting—because they often passed quickly.  This is where pressed plants also became important.  A cutting was carefully spread out on absorbent paper, covered by another sheet, and pressed between boards, so the plant didn’t curl up as it dried.  A specimen would then last indefinitely if kept from the three most common threats:  water, fire, and insects.  A label with at least the plant’s name insured that the specimen was tied to textual information.  At the time, a collection of pressed plants was called a <em>hortus siccus</em>, dry garden, or <em>hortus hyemalis</em>, winter garden for when live plant material was scarce.  The word herbarium was used more broadly for collections of plant images.[^2]
 
 <param ve-image fit
        label="Herbarium of Johannes Harder from about 1595; specimen sheets were often bound to preserve and keep them in order"
@@ -99,7 +99,7 @@ Drawings were also helpful in documenting a plant’s appearance at various life
        url="https://herbariumworld.files.wordpress.com/2022/08/bound_harder.jpeg">
 {#paragraph2}     
      
-Ghini taught plant preservation to his students and fellow botanists who quickly saw its value.  He often augmented the specimens with written descriptions, drawings, and even prints taken from published herbals on medicinal plants.  These images were in a style based on careful observation that developed in Northern Europe and then moved into the work of botanists like Ghini.[^3] The visual was especially important since texts were reliant on ancient writers and a vocabulary for describing plant traits had yet to be developed.  Even the concepts of genus and species, which seem quite obvious today, took about two centuries to mature.  
+Ghini taught plant preservation to his students and fellow botanists who quickly saw its value.  He often augmented the specimens with written descriptions, drawings, and even prints taken from published herbals on medicinal plants.  These images were in a style based on careful observation that developed in Northern Europe and then moved into the work of botanists like Ghini.[^3]  The visual was especially important since texts were reliant on ancient writers and a vocabulary for describing plant traits had yet to be developed.  Even the concepts of genus and species, which seem quite obvious today, took about two centuries to mature.  
 
 <param ve-image fit ref="1"
        label="Wood engraving of septfoil (<em>Tormentilla</em>) from <em>Herbarum Vivae Eicones</em> (1530) by Otto Brunfels, with the lower stems drooping indicating that a particular specimen was depicted"
@@ -114,7 +114,7 @@ Ghini taught plant preservation to his students and fellow botanists who quickly
        url="https://herbariumworld.files.wordpress.com/2022/08/fuchs_tormentilla.jpeg">
 {#paragraph3}
                                                      
-The 16th century was a time of experimentation in how best to communicate information about plants.  Ghini assisted his colleague Pietro Andrea Mattioli in interpreting an <span data-click-image-zoomto="1">ancient text</span> by sending him notes, specimens and drawings.  Mattioli used all these along with live plants, but disposed of the specimens after studying them.  He didn’t consider them worth saving, though he later regretted this.  The Swiss botanist and physician Felix Platter pasted one or more images on the <span data-click-image-zoomto="2">left-hand page</span> and a specimen of the same plant on the <span data-click-image-zoomto="3">right</span>, so he could easily compare them.  Others affixed them to the same sheet.  Some <span data-click-image-zoomto="4">painted in missing parts</span> of a plant or <span data-click-image-zoomto="5">added plant parts to an image</span>.  Still others applied oily ink to a specimen and made a <span data-click-image-zoomto="6">nature print</span> of it.  While drawings are still added to herbarium sheets, the more creative approaches have not survived.  Somewhat later, embellishments were added to sheets in some herbaria to signify the status of the owner.  <span data-click-image-zoomto="7">Printed vases and elaborate labels</span> adorned the specimens of wealthy in 18th-century Dutch collectors.
+The 16th century was a time of experimentation in how best to communicate information about plants.  Ghini assisted his colleague Pietro Andrea Mattioli in interpreting an <span data-click-image-zoomto="1">ancient text</span> by sending him notes, specimens and drawings.[^4]  Mattioli used all these along with live plants, but disposed of the specimens after studying them.  He didn’t consider them worth saving, though he later regretted this.  The Swiss botanist and physician Felix Platter pasted one or more images on the <span data-click-image-zoomto="2">left-hand page</span> and a specimen of the same plant on the <span data-click-image-zoomto="3">right</span>, so he could easily compare them.[^5]  Others affixed them to the same sheet.  Some <span data-click-image-zoomto="4">painted in missing parts</span> of a plant or <span data-click-image-zoomto="5">added plant parts to an image</span>.  Still others applied oily ink to a specimen and made a <span data-click-image-zoomto="6">nature print</span> of it.  While drawings are still added to herbarium sheets, the more creative approaches have not survived.  Somewhat later, embellishments were added to sheets in some herbaria to signify the status of the owner.  <span data-click-image-zoomto="7">Printed vases and elaborate labels</span> adorned the specimens of wealthy in 18th-century Dutch collectors.[^6]
 
 <param ve-image fit ref="1"
        label="Woodcut of five-spice anemone from <em>I discorsi</em> (1568) by Andrea Pietro Mattioli, p. 833"
@@ -372,5 +372,13 @@ url="https://herbariumworld.files.wordpress.com/2022/08/oresky_finder.jpeg">
 [^2]: Arber
 
 [^3]: Pächt
+
+[^4]: Mattioli
+
+[^5]: Benkert
+
+[^6]: Thijsse
+
+
 
 
