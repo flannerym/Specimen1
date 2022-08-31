@@ -371,14 +371,14 @@ url="https://herbariumworld.files.wordpress.com/2022/08/oresky_finder.jpeg">
 
 [^2]: Arber, Agnes. 1938. <em>Herbals: Their Origin and Evolution, A Chapter in the History of Botany, 1470-1670</em>. 2nd ed. Cambridge: Cambridge University Press.
 
-[^3]: Pächt, Otto. 1950. “Early Italian Nature Studies and the Early Calendar Landscape.” Journal of the Warburg and Courtauld Institutes 13 (1/2): 13–47. [https://doi.org/10.2307/750141].
+[^3]: Pächt, Otto. 1950. “Early Italian Nature Studies and the Early Calendar Landscape.” Journal of the Warburg and Courtauld Institutes 13 (1/2): 13–47. [https://doi.org/10.2307/750141](https://doi.org/10.2307/750141).
 
-[^4]: Mattioli, Pietro Andrea. 1568. I Discorsi. Venice: ValgrisI. [https://www.biodiversitylibrary.org/item/211436].
+[^4]: Mattioli, Pietro Andrea. 1568. I Discorsi. Venice: ValgrisI. [https://www.biodiversitylibrary.org/item/211436](https://www.biodiversitylibrary.org/item/211436).
 
-[^5]: Benkert, Davina. 2016. “The ‘Hortus Siccus’ as a Focal Point: Knowledge, Environment, and Image in Felix Platter’s and Caspar Bauhin’s Herbaria.” In <em>Sites of Mediation</em>, edited by Susanna Burghartz, Lucas Burkart, and Christine Göttler, 211–39. Leiden, NLD: Brill. [https://doi.org/10.1163/9789004325760_010].
+[^5]: Benkert, Davina. 2016. “The ‘Hortus Siccus’ as a Focal Point: Knowledge, Environment, and Image in Felix Platter’s and Caspar Bauhin’s Herbaria.” In <em>Sites of Mediation</em>, edited by Susanna Burghartz, Lucas Burkart, and Christine Göttler, 211–39. Leiden, NLD: Brill. [https://doi.org/10.1163/9789004325760_010](https://doi.org/10.1163/9789004325760_010).
 
 
-[^6]: Thijsse, Gerard. 2018. “A Contribution to the History of the Herbaria of George Clifford III (1685–1760).” Archives of Natural History 45 (1): 134–48. [https://doi.org/10.3366/anh.2018.0489].
+[^6]: Thijsse, Gerard. 2018. “A Contribution to the History of the Herbaria of George Clifford III (1685–1760).” Archives of Natural History 45 (1): 134–48. [https://doi.org/10.3366/anh.2018.0489](https://doi.org/10.3366/anh.2018.0489).
 
 
 
