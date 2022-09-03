@@ -371,14 +371,16 @@ url="https://herbariumworld.files.wordpress.com/2022/08/oresky_finder.jpeg">
 
 [^2]: Arber, Agnes. 1938. <em>Herbals: Their Origin and Evolution, A Chapter in the History of Botany, 1470-1670</em>. 2nd ed. Cambridge: Cambridge University Press.
 
-[^3]: Pächt, Otto. 1950. “Early Italian Nature Studies and the Early Calendar Landscape.” Journal of the Warburg and Courtauld Institutes 13 (1/2): 13–47. [https://doi.org/10.2307/750141](https://doi.org/10.2307/750141).
+[^3]: Pächt, Otto. 1950. “Early Italian Nature Studies and the Early Calendar Landscape.” <em>Journal of the Warburg and Courtauld Institutes 13<em> (1/2): 13–47. [https://doi.org/10.2307/750141](https://doi.org/10.2307/750141).
 
-[^4]: Mattioli, Pietro Andrea. 1568. I Discorsi. Venice: ValgrisI. [https://www.biodiversitylibrary.org/item/211436](https://www.biodiversitylibrary.org/item/211436#page/5/mode/1up).
+[^4]: Mattioli, Pietro Andrea. 1568. <em>I Discorsi</em>. Venice: Valgrisi. [https://www.biodiversitylibrary.org/item/211436](https://www.biodiversitylibrary.org/item/211436#page/5/mode/1up).
 
 [^5]: Benkert, Davina. 2016. “The ‘Hortus Siccus’ as a Focal Point: Knowledge, Environment, and Image in Felix Platter’s and Caspar Bauhin’s Herbaria.” In <em>Sites of Mediation</em>, edited by Susanna Burghartz, Lucas Burkart, and Christine Göttler, 211–39. Leiden, NLD: Brill. [https://doi.org/10.1163/9789004325760_010](https://brill.com/view/book/9789004325760/B9789004325760_010.xml).
 
 
-[^6]: Thijsse, Gerard. 2018. “A Contribution to the History of the Herbaria of George Clifford III (1685–1760).” Archives of Natural History 45 (1): 134–48. [https://doi.org/10.3366/anh.2018.0489](https://www.euppublishing.com/doi/10.3366/anh.2018.0489).
+[^6]: Thijsse, Gerard. 2018. “A Contribution to the History of the Herbaria of George Clifford III (1685–1760).” <em>Archives of Natural History 45</em> (1): 134–48. [https://doi.org/10.3366/anh.2018.0489](https://www.euppublishing.com/doi/10.3366/anh.2018.0489).
+
+[^7]: Stearn, William T. 1957. “Introduction.” In <em>Species Plantarum: A Facsimile of the First Edition 1753</em>, 1:1–199. London, UK: Ray Society.
 
 
 
