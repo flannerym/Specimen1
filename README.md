@@ -399,6 +399,11 @@ url="https://herbariumworld.files.wordpress.com/2022/08/oresky_finder.jpeg">
 [^15]: Dickinson, Emily. 2008. “Dickinson/Abiah Root (Strong) Correspondence: 7 May 1845 (Letter 6).” Dickinson Electronic Archives. 2008. [http://archive.emilydickinson.org/correspondence/aroot/l6.html](http://archive.emilydickinson.org/correspondence/aroot/l6.html).
 
 [^16]: Smiles, Samuel. 1878. <em>Robert Dick, Baker of Thurso, Geologist and Botanist</em>. London, UK: Murray.
+
 [^17]: Plaisier, H., J. A. Bryant, L. M. Irvine, A. Mclean, M. Jones, and M. E. Spencer Jones. 2016. “The Life and Work of Margaret Gatty (1809–1873), with Particular Reference to Her Seaweed Collections.” <em>Archives of Natural History 43</em> (2): 336–50. [https://doi.org/10.3366/anh.2016.0388](https://www.euppublishing.com/doi/10.3366/anh.2016.0388).
+
 [^18]: Daston, Lorraine. 2004. “Type Specimens and Scientific Memory.” <em>Critical Inquiry 31</em> (1): 153–82. [https://doi.org/10.1086/427306](https://www.journals.uchicago.edu/doi/10.1086/427306).
 
+[^19]: Park, Daniel S., Xiao Feng, Shinobu Akiyama, Marlina Ardiyani, Neida Avendaño, Zoltan Barina, Blandine Bärtschi, et al. 2021. “The Colonial Legacy of Herbaria.” <em>BioRxiv</em>. https://doi.org/10.1101/2021.10.27.466174.
+
+[^20]: Bebber, D.P., M.A. Carine, J.R.I. Wood, A.H. Wortley, D.J. Harris, G.T. Prance, G. Davidse, et al. 2010. “Herbaria Are a Major Frontier for Species Discovery.” <em>Proceedings of the National Academy of Sciences 107</em> (51): 22169–71. [https://doi.org/10.1073/pnas.1011841108](https://www.pnas.org/doi/full/10.1073/pnas.1011841108).
