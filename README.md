@@ -391,3 +391,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/oresky_finder.jpeg">
 [^11]: Mueggler, Erik. 2011. <em>The Paper Road: Archive and Experience in the Botanical Exploration of West China and Tibet</em>. Berkeley, CA: University of California Press.
 
 [^12]: Spamer, Earle, and Richard McCourt. 2002. “The Lewis and Clark Herbarium of The Academy of Natural Sciences. Part 1.” <em>Notulae Naturae</em>, no. 475: 1–46.
+
+[^13]: Calman, Gerta. 1977. <em>Ehret: Flower Painter Extraordinary</em>. Oxford: Phaidon.
+
+[^14]: Barber, Lynn. 1980. <em>The Heyday of Natural History, 1820-1870</em>. Garden City, NY: Doubleday.
