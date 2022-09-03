@@ -415,3 +415,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/oresky_finder.jpeg">
 [^23]: Daston, Lorraine, and Peter Galison. 2007. <em>Objectivity</em>. New York: Zone.
 
 [^24]: Angell, Bobbi, and Gustavo A. Romero. 2011. “Orchid Illustrations at Harvard.” <em>The Botanical Artist 17</em> (1): 20–21. [https://www.jstor.org/stable/45037498](https://www.jstor.org/stable/45037498).
+
+[^25]: Thijsse, Gerard. 2018. “A Contribution to the History of the Herbaria of George Clifford III (1685–1760).” <em>Archives of Natural History 45</em> (1): 134–48. [https://doi.org/10.3366/anh.2018.0489](https://www.euppublishing.com/doi/10.3366/anh.2018.0489).
+
+[^26]: Lack, H. Walter, and David J. Mabberley. 1999. <em>The Flora Graeca Story: Sibthorp, Bauer, and Hawkins in the Levant</em>. Oxford: Oxford University Press.
