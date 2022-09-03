@@ -371,7 +371,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/oresky_finder.jpeg">
 
 [^2]: Arber, Agnes. 1938. <em>Herbals: Their Origin and Evolution, A Chapter in the History of Botany, 1470-1670</em>. 2nd ed. Cambridge: Cambridge University Press.
 
-[^3]: Pächt, Otto. 1950. “Early Italian Nature Studies and the Early Calendar Landscape.” <em>Journal of the Warburg and Courtauld Institutes 13<em> (1/2): 13–47. [https://doi.org/10.2307/750141](https://doi.org/10.2307/750141).
+[^3]: Pächt, Otto. 1950. “Early Italian Nature Studies and the Early Calendar Landscape.” <em>Journal of the Warburg and Courtauld Institutes 13</em> (1/2): 13–47. [https://doi.org/10.2307/750141](https://doi.org/10.2307/750141).
 
 [^4]: Mattioli, Pietro Andrea. 1568. <em>I Discorsi</em>. Venice: Valgrisi. [https://www.biodiversitylibrary.org/item/211436](https://www.biodiversitylibrary.org/item/211436#page/5/mode/1up).
 
