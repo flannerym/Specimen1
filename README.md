@@ -428,4 +428,4 @@ url="https://herbariumworld.files.wordpress.com/2022/08/oresky_finder.jpeg">
 
 [^30]: Driessens, Erwin, and Maria Verstappen. 2013. “Herbarium Vivum.” Driessens and Verstappen. Accessed April 26, 2021. [https://notnot.home.xs4all.nl/herbariumvivum/herbariumvivum.html](https://notnot.home.xs4all.nl/herbariumvivum/herbariumvivum.html).
 
-[
+[^31]: Oresky, Melissa. 2020. <em>Finder</em>. Brooklyn: Kayrock.
