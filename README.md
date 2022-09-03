@@ -382,6 +382,10 @@ url="https://herbariumworld.files.wordpress.com/2022/08/oresky_finder.jpeg">
 
 [^7]: Stearn, William T. 1957. “Introduction.” In <em>Species Plantarum: A Facsimile of the First Edition 1753</em>, 1:1–199. London, UK: Ray Society.
 
+[^8]: Bleichmar, Daniela. 2011. <em>Visible Empire: Botanical Expeditions and Visual Culture in the Hispanic Enlightenment</em>. Chicago: University of Chicago Press.
+
+[^9]: Andel, Tinde van, Sarina Veldman, Paul Maas, Gerard Thijsse, and Marcel Eurlings. 2012. “The Forgotten Hermann Herbarium: A 17th Century Collection of Useful Plants from Suriname.” <em>Taxon 61</em> (6): 1296–1304. [https://www.jstor.org/stable/24389114](https://www.jstor.org/stable/24389114).
+
 
 
 
