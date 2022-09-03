@@ -395,3 +395,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/oresky_finder.jpeg">
 [^13]: Calman, Gerta. 1977. <em>Ehret: Flower Painter Extraordinary</em>. Oxford: Phaidon.
 
 [^14]: Barber, Lynn. 1980. <em>The Heyday of Natural History, 1820-1870</em>. Garden City, NY: Doubleday.
+
+[^15]: Dickinson, Emily. 2008. “Dickinson/Abiah Root (Strong) Correspondence: 7 May 1845 (Letter 6).” Dickinson Electronic Archives. 2008. [http://archive.emilydickinson.org/correspondence/aroot/l6.html](http://archive.emilydickinson.org/correspondence/aroot/l6.html).
+
+[^16]: Smiles, Samuel. 1878. <em>Robert Dick, Baker of Thurso, Geologist and Botanist</em>. London, UK: Murray.
