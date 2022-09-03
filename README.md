@@ -386,6 +386,8 @@ url="https://herbariumworld.files.wordpress.com/2022/08/oresky_finder.jpeg">
 
 [^9]: Andel, Tinde van, Sarina Veldman, Paul Maas, Gerard Thijsse, and Marcel Eurlings. 2012. “The Forgotten Hermann Herbarium: A 17th Century Collection of Useful Plants from Suriname.” <em>Taxon 61</em> (6): 1296–1304. [https://www.jstor.org/stable/24389114](https://www.jstor.org/stable/24389114).
 
+[^10]: Andel, Tinde van, Rutger A. Vos, Ewout Michels, and Anastasia Stefanaki. 2022. “Sixteenth-Century Tomatoes in Europe: Who Saw Them, What They Looked like, and Where They Came From.” <em>PeerJ</em> 10: e12790. [https://doi.org/10.7717/peerj.12790](https://peerj.com/articles/12790/).
 
+[^11]: Mueggler, Erik. 2011. <em>The Paper Road: Archive and Experience in the Botanical Exploration of West China and Tibet</em>. Berkeley, CA: University of California Press.
 
-
+[^12]: Spamer, Earle, and Richard McCourt. 2002. “The Lewis and Clark Herbarium of The Academy of Natural Sciences. Part 1.” <em>Notulae Naturae</em>, no. 475: 1–46.
