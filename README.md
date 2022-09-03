@@ -424,4 +424,8 @@ url="https://herbariumworld.files.wordpress.com/2022/08/oresky_finder.jpeg">
 
 [^28]: Noltie, Henry J. 2002. <em>The Dapuri Drawings: Alexander Gibson and the Bombay Botanic Gardens</em>. Edinburgh, UK: Antique Collectors’ Club.
 
-[^29]: 
+[^29]: Batsaki, Yota. 2021. “<em>The Apocalyptic Herbarium</em>: Mourning and Transformation in Anselm Kiefer’s Secret of the Ferns.” </em>Environmental Humanities 13</em> (2): 391–413. [https://doi.org/10.1215/22011919-9320211](https://read.dukeupress.edu/environmental-humanities/article/13/2/391/235004/The-Apocalyptic-HerbariumMourning-and).
+
+[^30]: Driessens, Erwin, and Maria Verstappen. 2013. “Herbarium Vivum.” Driessens and Verstappen. Accessed April 26, 2021. [https://notnot.home.xs4all.nl/herbariumvivum/herbariumvivum.html](https://notnot.home.xs4all.nl/herbariumvivum/herbariumvivum.html).
+
+[
