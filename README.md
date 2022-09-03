@@ -419,3 +419,9 @@ url="https://herbariumworld.files.wordpress.com/2022/08/oresky_finder.jpeg">
 [^25]: Thijsse, Gerard. 2018. “A Contribution to the History of the Herbaria of George Clifford III (1685–1760).” <em>Archives of Natural History 45</em> (1): 134–48. [https://doi.org/10.3366/anh.2018.0489](https://www.euppublishing.com/doi/10.3366/anh.2018.0489).
 
 [^26]: Lack, H. Walter, and David J. Mabberley. 1999. <em>The Flora Graeca Story: Sibthorp, Bauer, and Hawkins in the Levant</em>. Oxford: Oxford University Press.
+
+[^27]: Bleichmar, Daniela. 2011. <em>Visible Empire: Botanical Expeditions and Visual Culture in the Hispanic Enlightenment</em>. Chicago: University of Chicago Press.
+
+[^28]: Noltie, Henry J. 2002. <em>The Dapuri Drawings: Alexander Gibson and the Bombay Botanic Gardens</em>. Edinburgh, UK: Antique Collectors’ Club.
+
+[^29]: 
