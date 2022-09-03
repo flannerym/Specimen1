@@ -408,6 +408,10 @@ url="https://herbariumworld.files.wordpress.com/2022/08/oresky_finder.jpeg">
 
 [^20]: Bebber, D.P., M.A. Carine, J.R.I. Wood, A.H. Wortley, D.J. Harris, G.T. Prance, G. Davidse, et al. 2010. “Herbaria Are a Major Frontier for Species Discovery.” <em>Proceedings of the National Academy of Sciences 107</em> (51): 22169–71. [https://doi.org/10.1073/pnas.1011841108](https://www.pnas.org/doi/full/10.1073/pnas.1011841108).
 
-[^21]: Granados-To Choy, Juan Carlos, Sandra Knapp, and Clara Inés Orozco. 2007. “Solanum Humboldtianum (Solanaceae): An Endangered New Species from Colombia Rediscovered 200 Years after Its First Collection.” Systematic Botany 32 (1): 200–207. [https://www.jstor.org/stable/25064238](https://www.jstor.org/stable/25064238).
+[^21]: Granados-To Choy, Juan Carlos, Sandra Knapp, and Clara Inés Orozco. 2007. “Solanum Humboldtianum (Solanaceae): An Endangered New Species from Colombia Rediscovered 200 Years after Its First Collection.” <em>Systematic Botany 32</em> (1): 200–207. [https://www.jstor.org/stable/25064238](https://www.jstor.org/stable/25064238).
 
-[^22]: Hardisty, Alex R, Elizabeth R Ellwood, Gil Nelson, Breda Zimkus, Jutta Buschbom, Wouter Addink, Richard K Rabeler, et al. 2022. “Digital Extended Specimens: Enabling an Extensible Network of Biodiversity Data Records as Integrated Digital Objects on the Internet.” BioScience. [https://doi.org/10.1093/biosci/biac060](https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biac060/6648186).
+[^22]: Hardisty, Alex R, Elizabeth R Ellwood, Gil Nelson, Breda Zimkus, Jutta Buschbom, Wouter Addink, Richard K Rabeler, et al. 2022. “Digital Extended Specimens: Enabling an Extensible Network of Biodiversity Data Records as Integrated Digital Objects on the Internet.” <em>BioScience</em>. [https://doi.org/10.1093/biosci/biac060](https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biac060/6648186).
+
+[^23]: Daston, Lorraine, and Peter Galison. 2007. <em>Objectivity</em>. New York: Zone.
+
+[^24]: Angell, Bobbi, and Gustavo A. Romero. 2011. “Orchid Illustrations at Harvard.” <em>The Botanical Artist 17</em> (1): 20–21. [https://www.jstor.org/stable/45037498](https://www.jstor.org/stable/45037498).
